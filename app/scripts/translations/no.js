@@ -106,7 +106,7 @@ EOS_09                          :  'Claim EOS Tokens',
 EOS_10                          :  'Select `claimAll`.',
 
 /* Onboarding */
-ONBOARD_welcome_title           :  'Welcome to MyEtherWallet.com',
+ONBOARD_welcome_title           :  'Welcome to wallet.2ether.com',
 ONBOARD_welcome_content__1      :  'Please take some time to understand this for your own safety. 🙏',
 ONBOARD_welcome_content__2      :  'Your funds will be stolen if you do not heed these warnings.',
 ONBOARD_welcome_content__3      :  'We know this click-through stuff is annoying. We are sorry.',
@@ -138,7 +138,7 @@ ONBOARD_blockchain_content__1   :  'The blockchain is like a huge, global, decen
 ONBOARD_blockchain_content__2   :  'It keeps track of who sent how many coins to whom, and what the balance of every account is.',
 ONBOARD_blockchain_content__3   :  'It is stored and maintained by thousands of people (miners) across the globe who have special computers.',
 ONBOARD_blockchain_content__4   :  'The blocks in the blockchain are made up of all the individual transactions sent from MyEtherWallet, MetaMask, Exodus, Mist, Geth, Parity, and everywhere else.',
-ONBOARD_blockchain_content__5   :  'When you see your balance on MyEtherWallet.com or view your transactions on [etherscan.io](https://etherscan.io), you are seeing data on the blockchain, not in our personal systems.',
+ONBOARD_blockchain_content__5   :  'When you see your balance on wallet.2ether.com or view your transactions on [etherscan.io](https://etherscan.io), you are seeing data on the blockchain, not in our personal systems.',
 ONBOARD_blockchain_content__6   :  'Again: **we are not a bank**.',
 ONBOARD_interface_title__alt    :  'MEW is an Interface',
 ONBOARD_why_title__alt          :  'But...why does this matter?',
@@ -161,13 +161,13 @@ ONBOARD_whymew_content__2       :  'You don\'t have to rely on your bank, govern
 ONBOARD_whymew_content__3       :  'You don\'t have to rely on the security of an exchange or bank to keep your funds safe.',
 ONBOARD_whymew_content__4       :  'If you don\'t find these things valuable, ask yourself why you think the blockchain and cryptocurrencies are valuable. 😉',
 ONBOARD_whymew_content__5       :  'If you don\'t like the sound of this, consider using [Coinbase](https://www.coinbase.com/) or [Blockchain.info](https://blockchain.info/wallet/#/signup). They have more familiar accounts with usernames & passwords.',
-ONBOARD_whymew_content__6       :  'If you are scared but want to use MEW, [get a hardware wallet](https://kb.myetherwallet.com/hardware-wallets/hardware-wallet-recommendations.html)! These keep your keys secure.',
+ONBOARD_whymew_content__6       :  'If you are scared but want to use MEW, [get a hardware wallet](https://kb.wallet.2ether.com/hardware-wallets/hardware-wallet-recommendations.html)! These keep your keys secure.',
 ONBOARD_why_title__alt          :  'But...why?',
 ONBOARD_secure_title            :  'How To Protect Yourself & Your Funds',
 ONBOARD_secure_1_title          :  'How To Protect Yourself from Phishers',
 ONBOARD_secure_1_content__1     :  'Phishers send you a message with a link to a website that looks just like MyEtherWallet, EtherDelta, Paypal, or your bank, but is not the real website. They steal your information and then steal your money.',
 ONBOARD_secure_1_content__2     :  'Install [EAL](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn) or [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn) or [Cryptonite by Metacert](https://chrome.google.com/webstore/detail/cryptonite-by-metacert/keghdcpemohlojlglbiegihkljkgnige) or the [MyEtherWallet Chrome Extension](https://chrome.google.com/webstore/detail/myetherwallet-cx/nlbmnnijcnlegkjjpcfjclmcfggfefdm) to block malicious websites.',
-ONBOARD_secure_1_content__3     :  'Always check the URL: `https://vintage.myetherwallet.com`.',
+ONBOARD_secure_1_content__3     :  'Always check the URL: `https://wallet.2ether.com`.',
 ONBOARD_secure_1_content__4     :  'Always make sure the URL bar has `MYETHERWALLET INC` in green.',
 ONBOARD_secure_1_content__5     :  'Do not trust messages or links sent to you randomly via email, Slack, Reddit, Twitter, etc.',
 ONBOARD_secure_1_content__6     :  'Always navigate directly to a site before you enter information. Do not enter information after clicking a link from a message or email.',
@@ -186,7 +186,7 @@ ONBOARD_secure_3_content__2     :  'Make a backup of your private key and passwo
 ONBOARD_secure_3_content__3     :  'Store this paper or USB drive in a different physical location. A backup is not useful if it is destroyed by a fire or flood along with your laptop.',
 ONBOARD_secure_3_content__4     :  'Do not store your private key in Dropbox, Google Drive, or other cloud storage. If that account is compromised, your funds will be stolen.',
 ONBOARD_secure_3_content__5     :  'If you have more than 1-week\'s worth of pay worth of cryptocurrency, get a hardware wallet. No excuses. It\'s worth it. I promise.',
-ONBOARD_secure_3_content__6     :  '[Even more Security Tips!](https://kb.myetherwallet.com/getting-started/protecting-yourself-and-your-funds.html)',
+ONBOARD_secure_3_content__6     :  '[Even more Security Tips!](https://kb.wallet.2ether.com/getting-started/protecting-yourself-and-your-funds.html)',
 ONBOARD_secure_2_title__alt_2   :  'Screw Scams',
 ONBOARD_final_title__alt        :  'One more click & you\'re done! 🤘',
 ONBOARD_final_title             :  'Alright, I\'m done lecturing you!',
@@ -216,7 +216,7 @@ x_TxHash                    : 'Tr.hash',
 NAV_CheckTxStatus           : 'Sjekk transaksjonsstatus',
 NAV_TxStatus                : 'Transaksjonsstatus',
 tx_Details                  : 'Transaksjonsdetaljer',
-tx_Summary                  : 'I perioder med høy aktivitet (som f.eks. under ICO-er), kan transaksjoner stå på vent i flere timer, og i verste fall i flere dager. Dette verktøyet har som mål å gi deg muligheten til å finne og "avbryte" / erstatte disse transaksjonene. ** Dette er ikke vanligvis noe du kan gjøre. Det bør ikke stoles på, og vil bare kunne fungere når det ligger mange transaksjoner i kø. [Vennligst les mer om dette verktøyet her.](https://kb.myetherwallet.com/transactions/check-status-of-ethereum-transaction.html)**',
+tx_Summary                  : 'I perioder med høy aktivitet (som f.eks. under ICO-er), kan transaksjoner stå på vent i flere timer, og i verste fall i flere dager. Dette verktøyet har som mål å gi deg muligheten til å finne og "avbryte" / erstatte disse transaksjonene. ** Dette er ikke vanligvis noe du kan gjøre. Det bør ikke stoles på, og vil bare kunne fungere når det ligger mange transaksjoner i kø. [Vennligst les mer om dette verktøyet her.](https://kb.wallet.2ether.com/transactions/check-status-of-ethereum-transaction.html)**',
 tx_notFound                 : 'Transaksjon ikke funnet',
 tx_notFound_1               : 'Denne transaksjonen finnes ikke i transaksjonskøen til noden du er tilkoblet.',
 tx_notFound_2               : 'Hvis du nettopp har sendt transaksjonen, vennligst vent 15 sekunder og trykk "Sjekk transaksjonsstatus"-knappen igjen. ',
@@ -229,7 +229,7 @@ tx_foundInPending_3         : 'Det er en mulighet for at du kan "kansellere" ell
 tx_FoundOnChain             : 'Transaksjon funnet',
 tx_FoundOnChain_1           : 'Transaksjonen din var vellykket og ligger i blokkkjeden.',
 tx_FoundOnChain_2           : '**Hvis du ser et rødt utropstegn `( ! )` eller `BAD INSTRUCTION` eller `OUT OF GAS` feilmelding**, så betyr dette at transaksjonen ikke var vellykket. Du kan ikke "kansellere" eller erstatte denne transaksjonen. I stedet kan du sende en ny transaksjon. Hvis du fikk en "Out of Gas"-feilmelding, bør du doble gas-grensen som du spesifiserte i utgangspunktet. ',
-tx_FoundOnChain_3           : '**Hvis du ikke ser noen feil, var transaksjonen vellykket.** Dine ETH eller Tokens er der du sendte dem. Hvis du ikke ser disse ETH eller Tokens der du sendte dem, og det har gått mer enn 24 timer, vennligst [kontakt vedkommende service](https://kb.myetherwallet.com/diving-deeper/ethereum-list-of-support-and-communities.html). Send dem en *lenke* til transaksjonen din og spør dem pent om å se på situasjonen din.',
+tx_FoundOnChain_3           : '**Hvis du ikke ser noen feil, var transaksjonen vellykket.** Dine ETH eller Tokens er der du sendte dem. Hvis du ikke ser disse ETH eller Tokens der du sendte dem, og det har gått mer enn 24 timer, vennligst [kontakt vedkommende service](https://kb.wallet.2ether.com/diving-deeper/ethereum-list-of-support-and-communities.html). Send dem en *lenke* til transaksjonen din og spør dem pent om å se på situasjonen din.',
 
 /* Gen Wallet Updates */
 GEN_Help_1                  : 'Bruk',
@@ -258,7 +258,7 @@ GEN_Unlock                  : 'Lås opp lommeboken for å se adressen. ',
 GAS_PRICE_Desc              : 'Gas-pris er beløpet du betaler per gas-enhet. `Transaksjonsavgift = gas-pris * gas-grense` & betales til "utgraverne" for å inkludere transaksjonen din i en blokk. Høyere gas-pris = raskere transaksjon, men dyrere. Standardinnstillingen er `41 GWEI`. ',
 GAS_LIMIT_Desc              : 'Gas-grense er mengden gas som sendes med transaksjonen din. `Tr.avg.` = gas-pris * gas-grense & betales til "utgraverne" for å inkludere transaksjonen din i en blokk. Å øke dette tallet vil ikke få gjennom transaksjonen din raskere. Ulike typer transaksjoner krever ulik mengde gas. F.eks. koster det `21000` å sende ETH og ~`200 000` å sende tokens. ',
 NONCE_Desc                  : '"Nonce" er antall transaksjoner som noensinne har blitt sendt fra en gitt adresse. Det sikrer at transaksjoner sendes i riktig rekkefølge, og ikke mer enn én gang. ',
-TXFEE_Desc                  : 'Transaksjonsavgiften betales til "utgraverne" for å inkludere transaksjonen din i en blokk. Det er `gas-grense` * `gas-pris`. [Du kan regne om GWEI -> ETH her](https://vintage.myetherwallet.com/helpers.html)',
+TXFEE_Desc                  : 'Transaksjonsavgiften betales til "utgraverne" for å inkludere transaksjonen din i en blokk. Det er `gas-grense` * `gas-pris`. [Du kan regne om GWEI -> ETH her](https://wallet.2ether.com/helpers.html)',
 
 
 
@@ -492,7 +492,7 @@ MNEM_prev                   : 'Forrige Adresse ',
 /* Node Switcher */
 NODE_Title                  : 'Sett opp en alternativ node',
 NODE_Subtitle               : 'For å koble til en lokal node...',
-NODE_Warning                : 'Noden din må være HTTPS for å muliggjøre tilkobling via MyEtherWallet.com. Du kan [laste ned MyEtherWallet-repoet & kjøre det lokalt](https://github.com/kvhnuke/etherwallet/releases/latest) for å koble til en hvilken som helst node. Eller du kan skaffe deg et gratis SSL-sertifikat via [LetsEncrypt](https://letsencrypt.org/)',
+NODE_Warning                : 'Noden din må være HTTPS for å muliggjøre tilkobling via wallet.2ether.com. Du kan [laste ned MyEtherWallet-repoet & kjøre det lokalt](https://github.com/kvhnuke/etherwallet/releases/latest) for å koble til en hvilken som helst node. Eller du kan skaffe deg et gratis SSL-sertifikat via [LetsEncrypt](https://letsencrypt.org/)',
 NODE_Name                   : 'Nodens navn',
 NODE_Port                   : 'Nodens port',
 NODE_CTA                    : 'Lagre & bruk alternativ node',
@@ -551,7 +551,7 @@ MYWAL_Content_2             : 'Vær sikker på at du har **lagret den private n�
 MYWAL_Content_3             : 'Hvis du ønsker å bruke denne lommeboken med din MyEtherWallet Chrome-utvidelse i fremtiden, må du manuelt legge den til igjen ved å bruke den private nøkkelen/JSON og passord. ',
 
 /* View Wallet Details */
-VIEWWALLET_Subtitle         : 'Dette gir deg muligheten til å laste ned ulike versjoner av private nøkler og skrive ut papirlommeboken din på nytt. Du vil kanskje gjøre dette for å [importere kontoen din til Geth/Mist](http://ethereum.stackexchange.com/questions/465/how-to-import-a-plain-private-key-into-geth/). Hvis du bare ønsker å sjekke saldoen din, anbefaler vi at du bruker en "blockchain explorer" som f.eks. [etherscan.io](https://etherscan.io/). ',
+VIEWWALLET_Subtitle         : 'Dette gir deg muligheten til å laste ned ulike versjoner av private nøkler og skrive ut papirlommeboken din på nytt. Du vil kanskje gjøre dette for å [importere kontoen din til Geth/Mist](http://ethereum.stackexchange.com/questions/465/how-to-import-a-plain-private-key-into-geth/). Hvis du bare ønsker å sjekke saldoen din, anbefaler vi at du bruker en "blockchain explorer" som f.eks. [explorer.2ether.com](https://explorer.2ether.com). ',
 VIEWWALLET_Subtitle_Short   : 'Dette gir deg muligheten til å laste ned ulike versjoner av private nøkler og skrive ut papirlommeboken din på nytt. ',
 VIEWWALLET_SuccessMsg       : 'Suksess! Her er detaljene om din lommebok. ',
 VIEWWALLET_ShowPrivKey      : '(show)',
@@ -590,14 +590,14 @@ ERROR_24                    : 'Vennligst oppgi gyldig port ',
 ERROR_25                    : 'Vennligst oppgi gyldig kjede-ID ',
 ERROR_26                    : 'Vennligst oppgi gyldig ABI ',
 ERROR_27                    : 'Minimumsbeløp 0.01 ',
-ERROR_28                    : '**Du trenger din Keystore-fil & passord eller din private nøkkel** for å få tilgang til denne lommeboken i framtiden. Vennligst lagre og sikkerhetskopier den eksternt! Det finnes ingen måte å gjenopprette en lommebok på hvis du ikke lagrer den. Les [hjelpesiden](https://vintage.myetherwallet.com/#help) for ytterligere instruksjoner (foreløpig kun på engelsk). ',
+ERROR_28                    : '**Du trenger din Keystore-fil & passord eller din private nøkkel** for å få tilgang til denne lommeboken i framtiden. Vennligst lagre og sikkerhetskopier den eksternt! Det finnes ingen måte å gjenopprette en lommebok på hvis du ikke lagrer den. Les [hjelpesiden](https://wallet.2ether.com/#help) for ytterligere instruksjoner (foreløpig kun på engelsk). ',
 ERROR_29                    : 'Vennligst oppgi gyldig brukernavn og passord ',
 ERROR_30                    : 'Vennligst oppgi et gyldig ENS-navn ',
 ERROR_31                    : 'Ugyldig hemmelig frase ',
 ERROR_32                    : 'Kunne ikke bytte node eller koble til noden du valgte.  Last inn siden på nytt, prøv en annen node (øverste høyre hjørnet), sjekk brannmur-innstillingene. Hvis du bruker din egen node, sjekk konfigurasjonen.', // 32
 ERROR_33                    : 'Lommeboken du har låst opp stemmer ikke overens med eierens adresse. ', // 33
 ERROR_34                    : 'Navnet du prøver å avsløre er ikke likt navnet du har tastet inn. ', // 34
-ERROR_35                    : 'Input-adressen har ingen sjekk-sum. <a href="https://kb.myetherwallet.com/addresses/what-does-checksummed-mean.html" target="_blank" rel="noopener noreferrer"> More info</a>', // 35
+ERROR_35                    : 'Input-adressen har ingen sjekk-sum. <a href="https://kb.wallet.2ether.com/addresses/what-does-checksummed-mean.html" target="_blank" rel="noopener noreferrer"> More info</a>', // 35
 ERROR_36                    : 'Enter valid TX hash', // 36
 ERROR_37                    : 'Enter valid hex string (0-9, a-f)', // 37
 
@@ -634,7 +634,7 @@ PARITY_InvalidGasLimit      : "Tilført mengde gas er over grensen.",
 /* Tranlsation Info */
 translate_version           : '0.4 ',
 Translator_Desc             : 'Takk til oversetterne våre ',
-TranslatorName_1            : '[mrstormlars](https://vintage.myetherwallet.com/?gaslimit=21000&to=mrstormlars.eth&value=1.0#send-transaction) ',
+TranslatorName_1            : '[mrstormlars](https://wallet.2ether.com/?gaslimit=21000&to=mrstormlars.eth&value=1.0#send-transaction) ',
 TranslatorAddr_1            : '',
 /* Translator 1             : Insert Comments Here */
 TranslatorName_2            : '',
@@ -652,10 +652,10 @@ TranslatorAddr_5            : '',
 
 /* Help - Nothing after this point has to be translated. If you feel like being extra helpful, go for it. */
 HELP_Warning                : 'Hvis du opprettet en lommebok -eller- lastet ned repoet før **31. desember 2015**, vennligst sjekk lommebøkene dine &amp; last ned en ny versjon av repoet. Klikk for detaljer. ',
-HELP_Desc                   : 'Ser du noe som mangler? Har du flere spørsmål? [Ta kontakt med oss](mailto:support@myetherwallet.com), så vil vi ikke bare besvare spørsmålet ditt, men vi vil også oppdatere denne siden så den blir mer nyttig i framtiden! ',
+HELP_Desc                   : 'Ser du noe som mangler? Har du flere spørsmål? [Ta kontakt med oss](mailto:support@wallet.2ether.com), så vil vi ikke bare besvare spørsmålet ditt, men vi vil også oppdatere denne siden så den blir mer nyttig i framtiden! ',
 HELP_Remind_Title           : 'Noen påminnelser ',
-HELP_Remind_Desc_1          : '**Ethereum, MyEtherWallet.com & MyEtherWallet CX, og noen av de underliggende Javascript-bibliotekene vi benytter er under aktiv utvikling.** Selv om vi har testet grundig, og titusenvis av lommebøker har blitt opprettet uten feil av folk over hele kloden, så er det alltid en liten mulighet for at noe uventet kan skje som kan medføre at dine ETH kan tapes. Vennligst ikke invester mer enn du er villig til å tape, and vær så snill å være forsiktig. Hvis noe skulle skje, er vi lei oss for det, men **vi er ikke ansvarlige for eventuelt tapte etere**. ',
-HELP_Remind_Desc_2          : 'MyEtherWallet.com & MyEtherWallet CX er ikke "web wallets" (internettlommebøker). Du oppretter ikke en konto eller gir oss dine ethere for oppbevaring hos oss. Alle data forblir på din PC / i din nettleser. Vi gjør det enkelt for deg å opprette, lagre og få tilgang til din informasjon og samhogle med blokkjeden. ',
+HELP_Remind_Desc_1          : '**Ethereum, wallet.2ether.com & MyEtherWallet CX, og noen av de underliggende Javascript-bibliotekene vi benytter er under aktiv utvikling.** Selv om vi har testet grundig, og titusenvis av lommebøker har blitt opprettet uten feil av folk over hele kloden, så er det alltid en liten mulighet for at noe uventet kan skje som kan medføre at dine ETH kan tapes. Vennligst ikke invester mer enn du er villig til å tape, and vær så snill å være forsiktig. Hvis noe skulle skje, er vi lei oss for det, men **vi er ikke ansvarlige for eventuelt tapte etere**. ',
+HELP_Remind_Desc_2          : 'wallet.2ether.com & MyEtherWallet CX er ikke "web wallets" (internettlommebøker). Du oppretter ikke en konto eller gir oss dine ethere for oppbevaring hos oss. Alle data forblir på din PC / i din nettleser. Vi gjør det enkelt for deg å opprette, lagre og få tilgang til din informasjon og samhogle med blokkjeden. ',
 HELP_Remind_Desc_3          : 'Hvis du ikke lagrer din private nøkkel & passord, finnes det ingen måte å gjenopprette din lommebok på, eller midlene den inneholder. Sikkerhetskopier dem på flere fysiske lokasjoner &ndash; ikke bare på datamaskinen din! ',
 
 HELP_0_Title                : '0) Jeg er nybegynner. Hva skal jeg gjøre? ',
@@ -693,7 +693,7 @@ HELP_2b_Desc_8              : 'Gå til "Vis lommebok-info"-siden og oppgi (lim i
 HELP_3_Title                : '3) Hvordan verifiserer jeg at jeg har tilgang til den nye lommeboken min? ',
 HELP_3_Desc_1               : '**Før du sender ether til din nye lommebok**, bør du forsikre deg om at du har tilgang til den. ',
 HELP_3_Desc_2               : 'Naviger til "Vis lommebok-info"-siden. ',
-HELP_3_Desc_3               : 'Naviger til MyEtherWallet.com sin "Vis lommebok-info"-side. ',
+HELP_3_Desc_3               : 'Naviger til wallet.2ether.com sin "Vis lommebok-info"-side. ',
 HELP_3_Desc_4               : 'Velg lommebok-filen din, eller din private nøkkel, og lås opp lommeboken din. ',
 HELP_3_Desc_5               : 'Hvis lommeboken er kryptert, vil det automatisk dukke opp en tekstboks. Oppgi passordet. ',
 HELP_3_Desc_6               : 'Klikk "Lås opp lommebok"-knappen. ',
@@ -728,11 +728,11 @@ HELP_4CX_Desc_10            : 'Oppgi passordet for lommeboken. ',
 HELP_4CX_Desc_11            : 'Klikk "Send transaksjon." ',
 HELP_4CX_Desc_12            : 'Bruk "Send Ether & Tokens"-siden ',
 
-HELP_5_Title                : '5) Hvordan kan jeg bruke MyEtherWallet.com offline/lokalt? ',
-HELP_5_Desc_1               : 'Du kan bruke MyEtherWallet.com på datamaskinen din i stedet for fra GitHub-serverne. Du kan opprette en lommebok fullstendig frakoblet fra internett, og sende transaksjoner fra "Send offline"-siden. ',
-HELP_5_Desc_7               : 'MyEtherWallet.com kjører nå utelukkende på din datamaskin. ',
+HELP_5_Title                : '5) Hvordan kan jeg bruke wallet.2ether.com offline/lokalt? ',
+HELP_5_Desc_1               : 'Du kan bruke wallet.2ether.com på datamaskinen din i stedet for fra GitHub-serverne. Du kan opprette en lommebok fullstendig frakoblet fra internett, og sende transaksjoner fra "Send offline"-siden. ',
+HELP_5_Desc_7               : 'wallet.2ether.com kjører nå utelukkende på din datamaskin. ',
 HELP_5_Desc_8               : 'I tilfelle du ikke er så vant med dette: du må beholde hele mappen for å kunne kjøre nettsiden, ikke bare `index.html`. Ikke rør eller flytt rundt på noe i mappen. Hvis du lagrer en backup av MyEtherWallet-repoet for framtiden, anbefaler vi å kun lagre zip-fila så du kan være sikker på at innholdet i mappen forblir intakt. ',
-HELP_5_Desc_9               : 'Siden vi oppdaterer MyEtherWallet.com hele tiden, anbefaler vi at du oppdaterer din lagrede versjon av repoet jevnlig. ',
+HELP_5_Desc_9               : 'Siden vi oppdaterer wallet.2ether.com hele tiden, anbefaler vi at du oppdaterer din lagrede versjon av repoet jevnlig. ',
 
 HELP_5CX_Title              : '5) Hvordan kan jeg installere denne utvidelsen fra repoet i stedet for fra Chrome-butikken? ',
 HELP_5CX_Desc_2             : 'Klikk `chrome-extension-vX.X.X.X.zip`. ',
@@ -763,7 +763,7 @@ HELP_7_Desc_15              : 'Transaksjonen vil bli sendt inn. Transaksjons-ID-
 
 HELP_8_Title                : '8) Hva skjer hvis nettsiden går ned? ',
 HELP_8_Desc_1               : 'MyEtherWallet er ikke en nett-lommebok (web wallet). Du har ingen innlogging og ingenting blir noensinne lagret på våre servere. Det er ganske enkelt et grensesnitt som tillater deg å samhandle med blokkjeden. ',
-HELP_8_Desc_2               : 'Hvis MyEtherWallet.com går ned, må du finne en annen måte (som f.eks. geth eller Ethereum Wallet / Mist) å gjøre det på. Men du vil ikke trenge å "hente" eteren din ut av MyEtherWallet, fordi den ikke befinner seg i MyEtherWallet. Den befinner seg i den lommeboka/kontoen som du opprettet ved hjelp av nettsiden vår. ',
+HELP_8_Desc_2               : 'Hvis wallet.2ether.com går ned, må du finne en annen måte (som f.eks. geth eller Ethereum Wallet / Mist) å gjøre det på. Men du vil ikke trenge å "hente" eteren din ut av MyEtherWallet, fordi den ikke befinner seg i MyEtherWallet. Den befinner seg i den lommeboka/kontoen som du opprettet ved hjelp av nettsiden vår. ',
 HELP_8_Desc_3               : 'Du kan nå svært enkelt importere din ukrypterte private nøkkel og dine Geth/Mist-format (krypterte) filer direkte inn i geth / Ethereum Wallet / Mist. Se spørsmål #12 nedenfor. ',
 HELP_8_Desc_4               : 'I tillegg er sannsynligheten for at vi tar ned MyEtherWallet svært liten. Det koster oss nesten ingenting å opprettholde den siden vi ikke lagrer noen informasjon. Hvis vi tar ned domenet, er det fortsatt, og vil alltid være, offentlig tilgjengelig på [https://github.com/kvhnuke/etherwallet](https://github.com/kvhnuke/etherwallet/tree/gh-pages). Du kan laste ned zip-fila der og kjøre den lokalt. ',
 
@@ -822,14 +822,14 @@ HELP_12_Desc_28             : 'Neste gangen du åpner "Ethereum Wallet"-programm
 HELP_13_Title               : '13) Hva betyr "Utilstrekkelige midler. Kontoen du prøver å sende transaksjon fra har ikke nok midler. Påkrevd XXXXXXXXXXXXXXXXXXX og fått: XXXXXXXXXXXXXXXX." ? ',
 HELP_13_Desc_1              : 'Dette betyr at du ikke har nok Ether på kontoen din til å dekke gas-kostnaden. Hver transaksjon (inkludert token- og kontrakt-transaksjoner) krever gas, og gas betales med Ether. Tallet som vises er beløpet som kreves for å dekke transaksjonskostnaden i Wei (1 ETH = 10^18 Wei). Ta dette tallet, del det på `1000000000000000000`, og trekk fra Ether-beløpet som du prøvde å sende (hvis du prøvde å sende Ether). Dette vil gi deg Ether-beløpet som du mangler på (trenger å sende til) denne kontoen for å gjennomføre transaksjonen. ',
 
-HELP_14_Title               : '14) Noen nettsider randomiserer genereringen av den private nøkkelen via musebevegelser. MyEtherWallet.com gjør ikke dette. Er metoden som MyEtherWallet bruker til å generere tilfeldige tall sikker? ',
-HELP_14_Desc_1              : 'Selv om musebevegelses-metoden er smart og vi skjønner hvorfor folk liker den, så er realiteten at window.crypto sikrer mer entropi (tilfeldighet) enn musebevegelser. Musebevegelses-metoden er ikke usikker, men det er bare det at vi (og mange andre kryptoeksperter) har tro på window.crypto. I tillegg kan MyEtherWallet.com også benyttes på fingerstyrte enheter. Her er en [konversasjon mellom en sint redditor og Vitalik Buterin angående musebevegelser versus window.crypto](https://www.reddit.com/r/ethereum/comments/2bilqg/note_there_is_a_paranoid_highsecurity_way_to/cj5sgrm) og her er [window.crypto w3 spesifikasjonen](https://dvcs.w3.org/hg/webcrypto-api/raw-file/tip/spec/Overview.html#dfn-GlobalCrypto). ',
+HELP_14_Title               : '14) Noen nettsider randomiserer genereringen av den private nøkkelen via musebevegelser. wallet.2ether.com gjør ikke dette. Er metoden som MyEtherWallet bruker til å generere tilfeldige tall sikker? ',
+HELP_14_Desc_1              : 'Selv om musebevegelses-metoden er smart og vi skjønner hvorfor folk liker den, så er realiteten at window.crypto sikrer mer entropi (tilfeldighet) enn musebevegelser. Musebevegelses-metoden er ikke usikker, men det er bare det at vi (og mange andre kryptoeksperter) har tro på window.crypto. I tillegg kan wallet.2ether.com også benyttes på fingerstyrte enheter. Her er en [konversasjon mellom en sint redditor og Vitalik Buterin angående musebevegelser versus window.crypto](https://www.reddit.com/r/ethereum/comments/2bilqg/note_there_is_a_paranoid_highsecurity_way_to/cj5sgrm) og her er [window.crypto w3 spesifikasjonen](https://dvcs.w3.org/hg/webcrypto-api/raw-file/tip/spec/Overview.html#dfn-GlobalCrypto). ',
 
 HELP_15_Title               : '15) Hvorfor har ikke kontoen jeg nettopp opprettet dukket opp i blokkjede-utforskeren? (ie: etherchain, etherscan) ',
 HELP_15_Desc_1              : 'Kontoer vil kun dukke opp i en blokkjede-utforsker når kontoen har hatt aktivitet&mdash;for eksempel, når du har overført Ether til den. ',
 
 HELP_16_Title               : '16) Hvordan kan jeg sjekke saldoen på kontoen min? ',
-HELP_16_Desc_1              : 'Du kan bruke en blokkjede-utforsker som [etherscan.io](https://etherscan.io/). Lim inn adressen i søkefeltet og den vil finne fram adressen og transaksjonshistorikken. For eksempel, her ser du hvordan vår [donasjonskonto](https://etherscan.io/address/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) ser ut på etherscan.io ',
+HELP_16_Desc_1              : 'Du kan bruke en blokkjede-utforsker som [explorer.2ether.com](https://explorer.2ether.com). Lim inn adressen i søkefeltet og den vil finne fram adressen og transaksjonshistorikken. For eksempel, her ser du hvordan vår [donasjonskonto](https://etherscan.io/address/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) ser ut på etherscan.io ',
 
 HELP_17_Title               : '17) Hvorfor vises ikke saldoen min når jeg låser opp lommeboken min? ',
 HELP_17_Desc_1              : 'Dette er mest sannsynlig fordi du er bak en brannmur. API-en vi bruker for å innhente saldoen blokkeres ofte av brannmurer av ymse årsaker. Du vil fortsatt være i stand til å sende transaksjoner, du må bare bruke en annen metode for å se nevnte saldo, som etherscan.io ',
@@ -858,13 +858,13 @@ HELP_SecCX_Desc_2           : 'Informasjonen som du lager i denne Chrome-utvidel
 HELP_SecCX_Desc_3           : 'Hvilken informasjon lages? ',
 HELP_SecCX_Desc_4           : 'Adresser, kallenavn og private nøkler lagres i chrome.storage. Den private nøkkelen er kryptert ved hjelp av passordet du satte da du la til lommeboken. Kallenavn og lommebok-adresser er ikke kryptert. ',
 HELP_SecCX_Desc_5           : 'Hvorfor er ikke kallenavn og lommebok-adresser kryptert? ',
-HELP_SecCX_Desc_6           : 'Hvis vi skulle kryptere disse, måtte du ha oppgitt et passord hver gang du ønsket å se saldo for kontoene dine eller vise kallenavnene. Hvis dette bekymrer deg, anbefaler vi deg å bruke MyEtherWallet.com i stedet for denne Chrome-utvidelsen. ',
+HELP_SecCX_Desc_6           : 'Hvis vi skulle kryptere disse, måtte du ha oppgitt et passord hver gang du ønsket å se saldo for kontoene dine eller vise kallenavnene. Hvis dette bekymrer deg, anbefaler vi deg å bruke wallet.2ether.com i stedet for denne Chrome-utvidelsen. ',
 
 HELP_Sec_Title              : 'Datasikkerhet ',
 HELP_Sec_Desc_1             : 'Hvis en av dine første spørsmål er "Hvorfor skulle jeg stole på disse folkene?", så er det en god ting. Forhåpentligvis vil følgende bidra til å lette på frykten din. ',
 HELP_Sec_Desc_2             : 'Vi har vært oppe-og-gå siden august 2015. Hvis du søker etter ["myetherwallet" på reddit](https://www.reddit.com/search?q=myetherwallet), så kan du se mange folk som bruker oss med stor suksess. ',
 HELP_Sec_Desc_3             : 'Vi kommer ikke til å ta pengene dine eller stjele dine private nøkler. Det er ingen ondsinnet kode på denne siden. Faktisk er "Send Ether & Tokens"-siden fullstendig klient-drevet. Det betyr at all koden blir kjørt på ** din datamaskin ** og det blir aldri lagret eller overført noe sted. ',
-HELP_Sec_Desc_4             : 'Sjekk nettsideadressen (URL) -- Denne siden blir drevet gjennom GitHub og du kan se kildekoden her: [https://github.com/kvhnuke/etherwallet/tree/gh-pages](https://github.com/kvhnuke/etherwallet/tree/gh-pages) til domenet: [https://vintage.myetherwallet.com](https://vintage.myetherwallet.com). ',
+HELP_Sec_Desc_4             : 'Sjekk nettsideadressen (URL) -- Denne siden blir drevet gjennom GitHub og du kan se kildekoden her: [https://github.com/kvhnuke/etherwallet/tree/gh-pages](https://github.com/kvhnuke/etherwallet/tree/gh-pages) til domenet: [https://wallet.2ether.com](https://wallet.2ether.com). ',
 HELP_Sec_Desc_5             : 'For å generere lommebøker, kan du laste ned [kildekoden](https://github.com/kvhnuke/etherwallet/releases/latest). Se #5 ovenfor. ',
 HELP_Sec_Desc_6             : 'Kjør en test og sjekk hvilken nettverksaktivitet som skjer. Den enkleste måten som du kan gjøre dette på er å høyreklikke på siden og klikke "inspiser element". Gå til "Nettverk"-flippen. Generer en test-lommebok. Du vil se at det ikke er noen nettverksaktivitet. Du vil se at noe som ser ut som data:image/gif og data:image/png skjer. Disse er QR-kodene som blir generert...på din datamaskin...av din datamaskin. Ingen bytes ble overført. ',
 HELP_Sec_Desc_8             : 'Hvis du ikke er komfortabel med å bruke dette verktøyet, så for all del, ikke bruk det. Vi laget dette verktøyet som et hjelpemiddel for folk som vil opprette lommebøker og utføre transaksjoner uten å måtte dykke ned i kommandolinjeoperasjoner eller kjøre en full node. Igjen, ta gjerne kontakt hvis du har bekymringer og vi vil gi tilbakemelding så snart som mulig. Takk! ',

@@ -106,7 +106,7 @@ EOS_09                          :  'Claim EOS Tokens',
 EOS_10                          :  'Select `claimAll`.',
 
 /* Onboarding */
-ONBOARD_welcome_title           :  'Welcome to MyEtherWallet.com',
+ONBOARD_welcome_title           :  'Welcome to wallet.2ether.com',
 ONBOARD_welcome_content__1      :  'Please take some time to understand this for your own safety. 🙏',
 ONBOARD_welcome_content__2      :  'Your funds will be stolen if you do not heed these warnings.',
 ONBOARD_welcome_content__3      :  'We know this click-through stuff is annoying. We are sorry.',
@@ -138,7 +138,7 @@ ONBOARD_blockchain_content__1   :  'The blockchain is like a huge, global, decen
 ONBOARD_blockchain_content__2   :  'It keeps track of who sent how many coins to whom, and what the balance of every account is.',
 ONBOARD_blockchain_content__3   :  'It is stored and maintained by thousands of people (miners) across the globe who have special computers.',
 ONBOARD_blockchain_content__4   :  'The blocks in the blockchain are made up of all the individual transactions sent from MyEtherWallet, MetaMask, Exodus, Mist, Geth, Parity, and everywhere else.',
-ONBOARD_blockchain_content__5   :  'When you see your balance on MyEtherWallet.com or view your transactions on [etherscan.io](https://etherscan.io), you are seeing data on the blockchain, not in our personal systems.',
+ONBOARD_blockchain_content__5   :  'When you see your balance on wallet.2ether.com or view your transactions on [etherscan.io](https://etherscan.io), you are seeing data on the blockchain, not in our personal systems.',
 ONBOARD_blockchain_content__6   :  'Again: **we are not a bank**.',
 ONBOARD_interface_title__alt    :  'MEW is an Interface',
 ONBOARD_why_title__alt          :  'But...why does this matter?',
@@ -161,13 +161,13 @@ ONBOARD_whymew_content__2       :  'You don\'t have to rely on your bank, govern
 ONBOARD_whymew_content__3       :  'You don\'t have to rely on the security of an exchange or bank to keep your funds safe.',
 ONBOARD_whymew_content__4       :  'If you don\'t find these things valuable, ask yourself why you think the blockchain and cryptocurrencies are valuable. 😉',
 ONBOARD_whymew_content__5       :  'If you don\'t like the sound of this, consider using [Coinbase](https://www.coinbase.com/) or [Blockchain.info](https://blockchain.info/wallet/#/signup). They have more familiar accounts with usernames & passwords.',
-ONBOARD_whymew_content__6       :  'If you are scared but want to use MEW, [get a hardware wallet](https://kb.myetherwallet.com/hardware-wallets/hardware-wallet-recommendations.html)! These keep your keys secure.',
+ONBOARD_whymew_content__6       :  'If you are scared but want to use MEW, [get a hardware wallet](https://kb.wallet.2ether.com/hardware-wallets/hardware-wallet-recommendations.html)! These keep your keys secure.',
 ONBOARD_why_title__alt          :  'But...why?',
 ONBOARD_secure_title            :  'How To Protect Yourself & Your Funds',
 ONBOARD_secure_1_title          :  'How To Protect Yourself from Phishers',
 ONBOARD_secure_1_content__1     :  'Phishers send you a message with a link to a website that looks just like MyEtherWallet, EtherDelta, Paypal, or your bank, but is not the real website. They steal your information and then steal your money.',
 ONBOARD_secure_1_content__2     :  'Install [EAL](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn) or [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn) or [Cryptonite by Metacert](https://chrome.google.com/webstore/detail/cryptonite-by-metacert/keghdcpemohlojlglbiegihkljkgnige) or the [MyEtherWallet Chrome Extension](https://chrome.google.com/webstore/detail/myetherwallet-cx/nlbmnnijcnlegkjjpcfjclmcfggfefdm) to block malicious websites.',
-ONBOARD_secure_1_content__3     :  'Always check the URL: `https://vintage.myetherwallet.com`.',
+ONBOARD_secure_1_content__3     :  'Always check the URL: `https://wallet.2ether.com`.',
 ONBOARD_secure_1_content__4     :  'Always make sure the URL bar has `MYETHERWALLET INC` in green.',
 ONBOARD_secure_1_content__5     :  'Do not trust messages or links sent to you randomly via email, Slack, Reddit, Twitter, etc.',
 ONBOARD_secure_1_content__6     :  'Always navigate directly to a site before you enter information. Do not enter information after clicking a link from a message or email.',
@@ -186,7 +186,7 @@ ONBOARD_secure_3_content__2     :  'Make a backup of your private key and passwo
 ONBOARD_secure_3_content__3     :  'Store this paper or USB drive in a different physical location. A backup is not useful if it is destroyed by a fire or flood along with your laptop.',
 ONBOARD_secure_3_content__4     :  'Do not store your private key in Dropbox, Google Drive, or other cloud storage. If that account is compromised, your funds will be stolen.',
 ONBOARD_secure_3_content__5     :  'If you have more than 1-week\'s worth of pay worth of cryptocurrency, get a hardware wallet. No excuses. It\'s worth it. I promise.',
-ONBOARD_secure_3_content__6     :  '[Even more Security Tips!](https://kb.myetherwallet.com/getting-started/protecting-yourself-and-your-funds.html)',
+ONBOARD_secure_3_content__6     :  '[Even more Security Tips!](https://kb.wallet.2ether.com/getting-started/protecting-yourself-and-your-funds.html)',
 ONBOARD_secure_2_title__alt_2   :  'Screw Scams',
 ONBOARD_final_title__alt        :  'One more click & you\'re done! 🤘',
 ONBOARD_final_title             :  'Alright, I\'m done lecturing you!',
@@ -216,7 +216,7 @@ x_TxHash                    : 'TX Hash',
 NAV_CheckTxStatus           : 'Check TX Status',
 NAV_TxStatus                : 'TX Status',
 tx_Details                  : 'Transactie Details',
-tx_Summary                  : 'Ten tijden van hoog transactie volume (zoals tijdens ICOs) kunnen transacties voor uren, zo niet dagen, "pending" blijven. Deze tool heeft als doel om je de mogelijkheid te geven om deze TXs op te sporen en ze te "annuleren" / vervangen. ** Dit is niet typisch iets wat je kunt doen. Je zou er niet op moeten vertrouwen dat dit werkt & het kan alleen werken als de TX Pools vol zitten. [Lees hier meer over deze tool.](https://kb.myetherwallet.com/transactions/check-status-of-ethereum-transaction.html)**',
+tx_Summary                  : 'Ten tijden van hoog transactie volume (zoals tijdens ICOs) kunnen transacties voor uren, zo niet dagen, "pending" blijven. Deze tool heeft als doel om je de mogelijkheid te geven om deze TXs op te sporen en ze te "annuleren" / vervangen. ** Dit is niet typisch iets wat je kunt doen. Je zou er niet op moeten vertrouwen dat dit werkt & het kan alleen werken als de TX Pools vol zitten. [Lees hier meer over deze tool.](https://kb.wallet.2ether.com/transactions/check-status-of-ethereum-transaction.html)**',
 tx_notFound                 : 'Transactie Niet Gevonden',
 tx_notFound_1               : 'Deze TX werd niet gevonden in de TX Pool van de node waarmee je bent verbonden.',
 tx_notFound_2               : 'Als je deze transactie zojuist hebt verzonden, wacht dan eerst 15 seconden en druk nogmaals op de "Check TX Status" knop. ',
@@ -229,7 +229,7 @@ tx_foundInPending_3         : 'Er is een kans dat je je transactie kunt "anneler
 tx_FoundOnChain             : 'Transactie Gevonden',
 tx_FoundOnChain_1           : 'Je transactie was succesvol ge-mined en is in de blockchain opgenomen.',
 tx_FoundOnChain_2           : '**Als je een rood `( ! )`, een `BAD INSTRUCTION` of een `OUT OF GAS` foutmelding**, betekend dat dat de transactie niet succesvol is *verzonden*. Je kunt deze transactie niet annuleren of vervangen. Verzend in plaats daarvan een nieuwe transactie. Als je een "Out of Gas" foutmelding krijgt, zou je de oorspronkelijke gas limit moeten verdubbelen.',
-tx_FoundOnChain_3           : '**Als je geen enkele foutmelding ziet is je transactie met succes verzonden.** Je ETH of Tokens zijn waar je ze naar verzonden hebt. Als je je verzonden ETH of Tokens niet gecrediteerd ziet in je andere wallet / exchange account, en het is inmiddels al 24+ uur geleden sinds je de transactie verzonden hebt, neem dan [contact op met die service](https://kb.myetherwallet.com/diving-deeper/ethereum-list-of-support-and-communities.html). Geef ze de *link* naar je transactie en vraag ze op je allerliefste manier om naar je situatie te kijken.',
+tx_FoundOnChain_3           : '**Als je geen enkele foutmelding ziet is je transactie met succes verzonden.** Je ETH of Tokens zijn waar je ze naar verzonden hebt. Als je je verzonden ETH of Tokens niet gecrediteerd ziet in je andere wallet / exchange account, en het is inmiddels al 24+ uur geleden sinds je de transactie verzonden hebt, neem dan [contact op met die service](https://kb.wallet.2ether.com/diving-deeper/ethereum-list-of-support-and-communities.html). Geef ze de *link* naar je transactie en vraag ze op je allerliefste manier om naar je situatie te kijken.',
 
 /* Gen Wallet Updates */
 GEN_Help_1                  : 'gebruik jouw',
@@ -258,7 +258,7 @@ GEN_Unlock                  : 'Open je wallet om je adres te bekijken',
 GAS_PRICE_Desc              : 'Gas Prijs is het bedrag dat je betaald per unit gas. `TX vergoeding = gas prijs * gas limiet` & wordt betaald aan de miners om jouw TX in een blok op de blockchain op te nemen. Des te hoger de gas prijs = de sneller je transactie, maar ook duurder. Standaard is `41 GWEI`.',
 GAS_LIMIT_Desc              : 'Gas limiet is de hoeveelheid gas waarmee je je TX verstuurd. `TX vergoeding = gas prijs * gas limiet` & wordt betaald aan de miners om jouw TX in een blok op de blockchain op te nemen. Het verhogen van dit nummer zorgt er niet voor dat je TX sneller ge-mined zal worden. Verzenden van ETH = `21000`. Verzenden van Tokens = ~`200000`.',
 NONCE_Desc                  : 'De nonce is het aantal transacties die reeds verzonden zijn van een gegeven adres. De nonce verzekert dat transacties in de juiste volgorde worden verzonden en dat een transactie slechts 1 keer geldig is.',
-TXFEE_Desc                  : 'De TX vergoeding (`fee`) wordt betaald aan de miners om jouw TX in een blok op de blockchain op te nemen. De vergoeding is de `gas limiet` * `gas prijs`. [Je kunt hier GWEI -> ETH converteren](https://vintage.myetherwallet.com/helpers.html)',
+TXFEE_Desc                  : 'De TX vergoeding (`fee`) wordt betaald aan de miners om jouw TX in een blok op de blockchain op te nemen. De vergoeding is de `gas limiet` * `gas prijs`. [Je kunt hier GWEI -> ETH converteren](https://wallet.2ether.com/helpers.html)',
 
 
 
@@ -316,7 +316,7 @@ MEW_Tagline                 : 'Open Source JavaScript Client-Side Ether Wallet '
 MEW_Warning_1               : 'Check altijd de URL voordat je jouw wallet opent of een nieuwe wallet genereert. Pas op voor phishing sites! ',
 
 /* Footer */
-FOOTER_1                    : 'Een gratis, open source, client-side interface om Ethereum wallets te genereren &amp; meer. Wissel op een gemakkelijke &amp; veilige manier informatie uit met de Ethereum blockchain. Dubbel-check de URL/link ( myetherwallet.com ) alvorens je wallet te openen.',
+FOOTER_1                    : 'Een gratis, open source, client-side interface om Ethereum wallets te genereren &amp; meer. Wissel op een gemakkelijke &amp; veilige manier informatie uit met de Ethereum blockchain. Dubbel-check de URL/link ( wallet.2ether.com ) alvorens je wallet te openen.',
 FOOTER_1b                   : 'Gemaakt door ',
 FOOTER_2                    : 'Donaties worden zeer gewaardeerd: ',
 FOOTER_3                    : 'Client-side wallet genereren door ',
@@ -498,7 +498,7 @@ DEP_interface               : 'Gegenereerde Interface ',
 /* Node Switcher */
 NODE_Title                  : 'Stel je Custom Node in',
 NODE_Subtitle               : 'Om met een lokale node te verbinden...',
-NODE_Warning                : 'Je node dient HTTPS te zijn om met MyEtherWallet.com te kunnen verbinden. Je kunt de [MyEtherWallet repo downloaden](https://github.com/kvhnuke/etherwallet/releases/latest) en lokaal uitvoeren en vervolgens met iedere node verbinden. Of, verkrijg een gratis SSL certificaat via [LetsEncrypt](https://letsencrypt.org/)',
+NODE_Warning                : 'Je node dient HTTPS te zijn om met wallet.2ether.com te kunnen verbinden. Je kunt de [MyEtherWallet repo downloaden](https://github.com/kvhnuke/etherwallet/releases/latest) en lokaal uitvoeren en vervolgens met iedere node verbinden. Of, verkrijg een gratis SSL certificaat via [LetsEncrypt](https://letsencrypt.org/)',
 NODE_Name                   : 'Node Naam',
 NODE_Port                   : 'Node Poort',
 NODE_CTA                    : 'Opslaan & Custom Node gebruiken',
@@ -535,7 +535,7 @@ MSG_info2                   : 'Voeg je nickname toe en waar je deze gebruikt zod
 MSG_info3                   : 'Geef een specifieke reden op voor de boodschap, zodat deze niet kan worden hergebruikt voor een ander doel. ',
 
 /* View Wallet Details */
-VIEWWALLET_Subtitle         : 'Hiermee kun je verschillende versies van je prive sleutels downloaden en je papieren wallet opnieuw afdrukken. Je zou dit kunnen doen om [je account in Geth/Mist te importeren](http://ethereum.stackexchange.com/questions/465/how-to-import-a-plain-private-key-into-geth/). Als je enkel je saldo wilt raadplegen, adviseren we je om gebruik te maken van een blockchain explorer zoals [etherscan.io](https://etherscan.io/). ',
+VIEWWALLET_Subtitle         : 'Hiermee kun je verschillende versies van je prive sleutels downloaden en je papieren wallet opnieuw afdrukken. Je zou dit kunnen doen om [je account in Geth/Mist te importeren](http://ethereum.stackexchange.com/questions/465/how-to-import-a-plain-private-key-into-geth/). Als je enkel je saldo wilt raadplegen, adviseren we je om gebruik te maken van een blockchain explorer zoals [explorer.2ether.com](https://explorer.2ether.com). ',
 VIEWWALLET_Subtitle_Short   : 'Hiermee kun je verschillende versies van je prive sleutels downloaden en je papieren wallet opnieuw afdrukken. ',
 VIEWWALLET_SuccessMsg       : 'Gelukt! Hier zijn je wallet details. ',
 VIEWWALLET_ShowPrivKey      : '(laat zien)',
@@ -574,14 +574,14 @@ ERROR_24                    : 'Voer een geldige poort in ',
 ERROR_25                    : 'Voer een geldig chain ID in ',
 ERROR_26                    : 'Voer een geldige ABI in ',
 ERROR_27                    : 'Minimale hoeveelheid is 0.01 ',
-ERROR_28                    : '**Je hebt je Keystore Bestand & wachtwoord of prive sleutel nodig** om toegang tot deze wallet te verkrijgen in de toekomst. Sla het op & maak een externe back-up! Er is geen enkele manier om je wallet te herstellen als je het nu niet opslaat. Lees ook de help pagina (https://vintage.myetherwallet.com/#help) voor instructies. ',
+ERROR_28                    : '**Je hebt je Keystore Bestand & wachtwoord of prive sleutel nodig** om toegang tot deze wallet te verkrijgen in de toekomst. Sla het op & maak een externe back-up! Er is geen enkele manier om je wallet te herstellen als je het nu niet opslaat. Lees ook de help pagina (https://wallet.2ether.com/#help) voor instructies. ',
 ERROR_29                    : 'Voer een valide gebruikersnaam en wachtwoord in ',
 ERROR_30                    : 'Voer een valide ENS naam in ',
 ERROR_31                    : 'Ongeldige geheime zin ',
 ERROR_32                    : 'Kon niet met de node verbinden. Ververs de pagina, probeer een andere node (rechterbovenhoek) en/of check je firewall instellingen. Check bij een custom node je configuratie.', // 32
 ERROR_33                    : 'De wallet die je hebt geopend matched niet bij het adres van de eigenaar owner\'s. ', // 33
 ERROR_34                    : 'De naam die je probeert de onthullen ("reveal") matched niet met de naam die je hebt ingevoerd. ', // 34
-ERROR_35                    : 'Input adres is niet ge-checksummed. <a href="https://kb.myetherwallet.com/addresses/what-does-checksummed-mean.html" target="_blank" rel="noopener noreferrer"> Meer info</a>', // 35
+ERROR_35                    : 'Input adres is niet ge-checksummed. <a href="https://kb.wallet.2ether.com/addresses/what-does-checksummed-mean.html" target="_blank" rel="noopener noreferrer"> Meer info</a>', // 35
 ERROR_36                    : 'Voer een geldige TX hash in', // 36
 ERROR_37                    : 'Voer een geldige hex string in (0-9, a-f)', // 37
 
@@ -606,19 +606,19 @@ GETH_GasLimit               : 'Overstijgt blok gas limiet ',
 GETH_NegativeValue          : 'Negative waarde ',
 
 /* Parity Error Messages */
-PARITY_AlreadyImported      : "(parity-01) Transactie met dezelfde hash was reeds geimporteerd. A transaction with the same hash was already imported. It was probably already broadcast. To avoid duplicate transactions, check your address on [etherscan.io](https://etherscan.io) & wait 10 minutes before attempting to send again. [Learn More.](https://kb.myetherwallet.com/transactions/transactions-not-showing-or-pending.html)",
-PARITY_GasLimitExceeded     : "(parity-02) Transactie kosten overstijgen de huidige gas limiet. Limiet: {}, momenteel: {}. Probeer de hoeveelheid gas te verminderen. Transaction cost exceeds current gas limit. Limit: (d+), got: (d+). Please lower the gas limit to 21000 (for sending) or 200000 (for sending tokens or contracts) and try again. [Learn More](https://kb.myetherwallet.com/gas/what-is-gas-ethereum.html)",
-PARITY_InsufficientBalance  : "(parity-03) Ontoereikend saldo. Het account waarvan je probeert te versturen bevat niet voldoende saldo. Vereist {} en momenteel: {}. Insufficient balance. The account you tried to send transaction from does not have enough funds. If you believe this is in error, try using the 'Send Entire Balance' button, or pressing generate again. Required (d+) and got: (d+). [Learn More.](https://kb.myetherwallet.com/transactions/transactions-not-showing-or-pending.html)",
-PARITY_InsufficientGasPrice : "(parity-04) Transactie vergoeding is te laag. Het voldoet niet aan je node's minimale vergoeding (minimaal: {}, momenteel: {}). Probeer je transactie vergoeding te verhogen. There is another transaction with same nonce in the queue, or the transaction fee is too low. Try incrementing the nonce by clicking the Generate button again. [Learn More.](https://kb.myetherwallet.com/transactions/transactions-not-showing-or-pending.html)",
-PARITY_InvalidGasLimit      : "(parity-05) Hoeveelheid gas is boven de limiet. Supplied gas limit is beyond limit. Try lowering the gas limit to 21000. [Learn More.](https://kb.myetherwallet.com/gas/what-is-gas-ethereum.html)",
-PARITY_LimitReached         : "(parity-06) Er staan te veel transacties in de wachtrij. Je transactie is afgewezen door deze limiet. Probeer je transactie vergoeding te verhogen. There are too many transactions in the queue. Your transaction was dropped due to limit. Try increasing the gas price. [Learn More.](https://kb.myetherwallet.com/transactions/transactions-not-showing-or-pending.html)",
-PARITY_Old                  : "(parity-07) Transactie nonce is te laag. Probeer de nonce te verhogen. There is already a transaction with this [nonce](https://kb.myetherwallet.com/transactions/what-is-nonce.html). Try incrementing the nonce by pressing the Generate button again, or [replace the pending transaction](https://kb.myetherwallet.com/transactions/check-status-of-ethereum-transaction.html).",
-PARITY_TooCheapToReplace    : "(parity-08) Transactie vergoeding is te laag. Er staat een andere transactie met dezelfde nonce in de wachtrij. Probeer de transactie vergoeding of de nonce te verhogen. TX Fee is too low. It does not satisfy your node's minimal fee (minimal: (d+), got: (d+)). Try increasing the gas price and/or gas limit. [Learn More.](https://kb.myetherwallet.com/transactions/transactions-not-showing-or-pending.html)",
+PARITY_AlreadyImported      : "(parity-01) Transactie met dezelfde hash was reeds geimporteerd. A transaction with the same hash was already imported. It was probably already broadcast. To avoid duplicate transactions, check your address on [etherscan.io](https://etherscan.io) & wait 10 minutes before attempting to send again. [Learn More.](https://kb.wallet.2ether.com/transactions/transactions-not-showing-or-pending.html)",
+PARITY_GasLimitExceeded     : "(parity-02) Transactie kosten overstijgen de huidige gas limiet. Limiet: {}, momenteel: {}. Probeer de hoeveelheid gas te verminderen. Transaction cost exceeds current gas limit. Limit: (d+), got: (d+). Please lower the gas limit to 21000 (for sending) or 200000 (for sending tokens or contracts) and try again. [Learn More](https://kb.wallet.2ether.com/gas/what-is-gas-ethereum.html)",
+PARITY_InsufficientBalance  : "(parity-03) Ontoereikend saldo. Het account waarvan je probeert te versturen bevat niet voldoende saldo. Vereist {} en momenteel: {}. Insufficient balance. The account you tried to send transaction from does not have enough funds. If you believe this is in error, try using the 'Send Entire Balance' button, or pressing generate again. Required (d+) and got: (d+). [Learn More.](https://kb.wallet.2ether.com/transactions/transactions-not-showing-or-pending.html)",
+PARITY_InsufficientGasPrice : "(parity-04) Transactie vergoeding is te laag. Het voldoet niet aan je node's minimale vergoeding (minimaal: {}, momenteel: {}). Probeer je transactie vergoeding te verhogen. There is another transaction with same nonce in the queue, or the transaction fee is too low. Try incrementing the nonce by clicking the Generate button again. [Learn More.](https://kb.wallet.2ether.com/transactions/transactions-not-showing-or-pending.html)",
+PARITY_InvalidGasLimit      : "(parity-05) Hoeveelheid gas is boven de limiet. Supplied gas limit is beyond limit. Try lowering the gas limit to 21000. [Learn More.](https://kb.wallet.2ether.com/gas/what-is-gas-ethereum.html)",
+PARITY_LimitReached         : "(parity-06) Er staan te veel transacties in de wachtrij. Je transactie is afgewezen door deze limiet. Probeer je transactie vergoeding te verhogen. There are too many transactions in the queue. Your transaction was dropped due to limit. Try increasing the gas price. [Learn More.](https://kb.wallet.2ether.com/transactions/transactions-not-showing-or-pending.html)",
+PARITY_Old                  : "(parity-07) Transactie nonce is te laag. Probeer de nonce te verhogen. There is already a transaction with this [nonce](https://kb.wallet.2ether.com/transactions/what-is-nonce.html). Try incrementing the nonce by pressing the Generate button again, or [replace the pending transaction](https://kb.wallet.2ether.com/transactions/check-status-of-ethereum-transaction.html).",
+PARITY_TooCheapToReplace    : "(parity-08) Transactie vergoeding is te laag. Er staat een andere transactie met dezelfde nonce in de wachtrij. Probeer de transactie vergoeding of de nonce te verhogen. TX Fee is too low. It does not satisfy your node's minimal fee (minimal: (d+), got: (d+)). Try increasing the gas price and/or gas limit. [Learn More.](https://kb.wallet.2ether.com/transactions/transactions-not-showing-or-pending.html)",
 
 /* Translation Info */
 translate_version           : '0.5 ',
 Translator_Desc             : 'Bedank onze vertalers ',
-TranslatorName_1            : '[h3ll0fr13nd](https://vintage.myetherwallet.com/?gaslimit=21000&to=0xB5FbCE123F12347206c881cae73A3046BA1A90bA&value=1.0#send-transaction) ',
+TranslatorName_1            : '[h3ll0fr13nd](https://wallet.2ether.com/?gaslimit=21000&to=0xB5FbCE123F12347206c881cae73A3046BA1A90bA&value=1.0#send-transaction) ',
 TranslatorAddr_1            : '0xB5FbCE123F12347206c881cae73A3046BA1A90bA ',
 /* Translator 1             : Insert Comments Here */
 TranslatorName_2            : '',
@@ -636,10 +636,10 @@ TranslatorAddr_5            : '',
 
 /* Help - Nothing after this point has to be translated. If you feel like being extra helpful, go for it. */
 HELP_Warning                : 'Als je een wallet aangemaakt hebt -of repo hebt gedownload- voor **31 december 2015**, verifieer dan alsjebieft je wallets en download een nieuwe versie van de repo. Klik voor details. ',
-HELP_Desc                   : 'Zie je dat er iets mist? Of heb je een andere vraag? [Neem contact met ons op](mailto:support@myetherwallet.com), en we zullen niet alleen je vraag beantwoorden, maar ook deze help pagina bijwerken zodat deze nog nuttiger wordt voor toekomstige gebruikers! ',
+HELP_Desc                   : 'Zie je dat er iets mist? Of heb je een andere vraag? [Neem contact met ons op](mailto:support@wallet.2ether.com), en we zullen niet alleen je vraag beantwoorden, maar ook deze help pagina bijwerken zodat deze nog nuttiger wordt voor toekomstige gebruikers! ',
 HELP_Remind_Title           : 'Enkele herinneringen ',
-HELP_Remind_Desc_1          : '**Ethereum, MyEtherWallet.com & MyEtherWallet CX, en enkele onderliggende Javascript libraries waar we gebruik van maken zijn onderheving aan active ontwikkeling.** Hoewel we grondig testen & er inmiddels tienduizenden wallets succesvol zijn aangemaakt door mensen over de hele wereld, blijft er altijd een geringe kans dat iets er onverwachts optreedt waardoor je je ether kunt verliezen. Investeer alsjeblieft niet meer dan dat je bereid bent om te verliezen, en wees voorzichtig. Zou er onverhoopt toch iets gebeuren vinden we dat zeer spijtig, echter **zullen wij nooit verantwoordelijk zijn voor de verloren Ether**. ',
-HELP_Remind_Desc_2          : 'MyEtherWallet.com & MyEtherWallet CX zijn geen "web wallets". Je maakt bij ons geen account aan noch geef je ooit je Ether aan ons in bezit. Alle gegevens verlaten nooit je computer/je browser. We helpen je alleen gemakkelijk toegang te verkrijgen tot de blockchain zodat je er informatie in kunt opslaan en kunt uitlezen. ',
+HELP_Remind_Desc_1          : '**Ethereum, wallet.2ether.com & MyEtherWallet CX, en enkele onderliggende Javascript libraries waar we gebruik van maken zijn onderheving aan active ontwikkeling.** Hoewel we grondig testen & er inmiddels tienduizenden wallets succesvol zijn aangemaakt door mensen over de hele wereld, blijft er altijd een geringe kans dat iets er onverwachts optreedt waardoor je je ether kunt verliezen. Investeer alsjeblieft niet meer dan dat je bereid bent om te verliezen, en wees voorzichtig. Zou er onverhoopt toch iets gebeuren vinden we dat zeer spijtig, echter **zullen wij nooit verantwoordelijk zijn voor de verloren Ether**. ',
+HELP_Remind_Desc_2          : 'wallet.2ether.com & MyEtherWallet CX zijn geen "web wallets". Je maakt bij ons geen account aan noch geef je ooit je Ether aan ons in bezit. Alle gegevens verlaten nooit je computer/je browser. We helpen je alleen gemakkelijk toegang te verkrijgen tot de blockchain zodat je er informatie in kunt opslaan en kunt uitlezen. ',
 HELP_Remind_Desc_3          : 'Als je je prive sleutel en wachtwoord niet opslaat, is er geen enkele manier om toegang tot je wallet te verkrijgen of het saldo dat het bevat. Maak back-ups en bewaar deze op meerdere fysieke lokaties en dus niet alleen op je eigen computer! ',
 
 HELP_0_Title                : '0) Ik ben nieuw. Waar begin ik? ',
@@ -677,7 +677,7 @@ HELP_2b_Desc_8              : 'Ga naar de "Bekijk Wallet Info" pagina en voer je
 HELP_3_Title                : '3) Hoe verifieer ik dat ik toegang hebt tot mijn nieuwe wallets? ',
 HELP_3_Desc_1               : 'Zorg **voordat je enige Ether naar je wallet verstuurd** dat je controleerd dat je er toegang toe hebt. ',
 HELP_3_Desc_2               : 'Navigeer naar de "Bekijk Wallet Info" pagina. ',
-HELP_3_Desc_3               : 'Navigeer naar de MyEtherWallet.com "Bekijk Wallet Info" pagina. ',
+HELP_3_Desc_3               : 'Navigeer naar de wallet.2ether.com "Bekijk Wallet Info" pagina. ',
 HELP_3_Desc_4               : 'Selecteer je wallet bestand -of- je prive sleutel en open je wallet. ',
 HELP_3_Desc_5               : 'Als je wallet is versleuteld (encrypted) zal er een automatisch een extra invoerveld verschijnen. Voer je wachtwoord in. ',
 HELP_3_Desc_6               : 'Klik op de "Ontsleutel je Wallet" knop. ',
@@ -712,11 +712,11 @@ HELP_4CX_Desc_10            : 'Voer het wachtwoord van je wallet in. ',
 HELP_4CX_Desc_11            : 'Klik "Verzend Transactie." ',
 HELP_4CX_Desc_12            : 'Maak gebruik van de "Verzend Ether en Tokens" Pagina ',
 
-HELP_5_Title                : '5) Hoe voer ik MyEtherWallet.com offline/lokaal uit? ',
-HELP_5_Desc_1               : 'Je kunt MyEtherWallet.com uitvoeren op je eigen computer in plaats van op de GitHub servers. Je kunt een wallet volledig offline genereren en transacties versturen met behulp van de "Offline Transactie" pagina. ',
-HELP_5_Desc_7               : 'MyEtherWallet.com draait nu volledig op jouw computer. ',
+HELP_5_Title                : '5) Hoe voer ik wallet.2ether.com offline/lokaal uit? ',
+HELP_5_Desc_1               : 'Je kunt wallet.2ether.com uitvoeren op je eigen computer in plaats van op de GitHub servers. Je kunt een wallet volledig offline genereren en transacties versturen met behulp van de "Offline Transactie" pagina. ',
+HELP_5_Desc_7               : 'wallet.2ether.com draait nu volledig op jouw computer. ',
 HELP_5_Desc_8               : 'Voor het geval dat je er niet bekend mee bent: je hebt de volledige map nodig om de site lokaal te draaien, niet alleen het `index.html` bestand. Laat alle bestanden in de map met rust en ga ze niet verplaatsen. Als je een back-up wilt bewaren van de MyEtherWallet repo voor de toekomst, raden we je aan om alleen de ZIP te bewaren zodat je zeker weet dat de inhoud intact blijft. ',
-HELP_5_Desc_9               : 'Gezien we MyEtherWallet.com continu updaten, raden we je aan om regelmatig je opgeslagen versie van de repo bij te werken. ',
+HELP_5_Desc_9               : 'Gezien we wallet.2ether.com continu updaten, raden we je aan om regelmatig je opgeslagen versie van de repo bij te werken. ',
 
 HELP_5CX_Title              : '5) Hoe installeer ik deze extensie vanuit de repo in plaats van de Chrome Store? ',
 HELP_5CX_Desc_2             : 'Klik `chrome-extension-vX.X.X.X.zip`. ',
@@ -747,7 +747,7 @@ HELP_7_Desc_15              : 'De transactie zal worden verstuurt. Het TX Hash z
 
 HELP_8_Title                : '8) Wat gebeurd er als deze website stopt? ',
 HELP_8_Desc_1               : 'MyEtherWallet is geen web wallet. Je hoeft niet in te loggen en er zal nooit iets van je op onze servers worden bewaard. Onze website is enkel een interface om toegang te verkrijgen tot de blockchain. ',
-HELP_8_Desc_2               : 'Als MyEtherWallet.com er mee stopt, zul je een andere manier moeten zien te vinden (zoals geth of Ethereum Wallet / Mist) om te doen wat wij doen. Maar wat je niet zult hoeven te doen is je Ether uit MyEtherWallet halen omdat het niet in MyEtherWallet zit. Je Ether zit in in welk wallet dan ook je op onze site hebt gegenereerd. ',
+HELP_8_Desc_2               : 'Als wallet.2ether.com er mee stopt, zul je een andere manier moeten zien te vinden (zoals geth of Ethereum Wallet / Mist) om te doen wat wij doen. Maar wat je niet zult hoeven te doen is je Ether uit MyEtherWallet halen omdat het niet in MyEtherWallet zit. Je Ether zit in in welk wallet dan ook je op onze site hebt gegenereerd. ',
 HELP_8_Desc_3               : 'Je kunt je  onversleutelde (unencrypted) prive sleutel en je Geth/Mist Formaat (encrypted) bestanden heel gemakkelijk en direct in geth / Ethereum Wallet / Mist importeren. Zie onderstaande vraag #12. ',
 HELP_8_Desc_4               : 'Daarnaast is de kans dat wij MyEtherWallet offline halen is miniem tot onmogelijk. Het kost ons vrijwel niets om de site in stand te houden omdat we geen informatie opslaan. Als we toch het domijn offline halen, is het ook altijd nog publiekelijk beschikbaar op [https://github.com/kvhnuke/etherwallet](https://github.com/kvhnuke/etherwallet/tree/gh-pages). Je kunt daar de ZIP downloaden en het lokaal draaien. ',
 
@@ -806,14 +806,14 @@ HELP_12_Desc_28             : 'De volgende keer dat je de Ethereum Wallet applic
 HELP_13_Title               : '13) Wat betekend "Ontoereikend saldo. Het account waarvan je de transactie verstuurd bevat niet voldoende saldo. Vereist XXXXXXXXXXXXXXXXXXX en heeft: XXXXXXXXXXXXXXXX."? ',
 HELP_13_Desc_1              : 'Dit betekend dat je account onvoldoende Ether bevat om de kosten voor het vereiste gas te dekken. Elke transactie (inclusief token en contract transacties) vereisen gas en dit gas wordt betaald in Ether. Het weergegeven nummer is de hoeveelheid die voor de transactie vereist in Wei. Neem dit nummer, deel het door `1000000000000000000`, en trek daarvan de hoeveelheid Ether die je probeerde te verzenden af (als je probeerde Ether te versturen). Dit geeft je de hoeveelheid Ether die je dient te versturen naar het account om de transactie te maken. ',
 
-HELP_14_Title               : '14) Sommige sites zorgen voor een willekeurigheid (seed) bij het genereren van de prive sleutel via muis bewegingen. MyEtherWallet.com doet dit niet. Is de wikkeleurigheid (random number generation) van MyEtherWallet wel veilig? ',
-HELP_14_Desc_1              : 'Hoewel het bewegen van de muis een slimme truck is en we begrijpen waarom mensen dit een goed idee vinden, is de werkelijkheid dat "window.crypto" een grotere willekeurigheid (hogere entropie) zeker stelt dan je muisbewegingen. De muisbewegingen zijn niet onveilig, echter wij (en enorm veel andere crypto experimenten) geloven in "window.crypto". Bovendien kan MyEtherWallet.com gebruikt worden op touchscreen apparaten. Hier vind je een [conversatie tussen een boze redditor en Vitalik Buterin over de muisbewegingen v. window.crypto](https://www.reddit.com/r/ethereum/comments/2bilqg/note_there_is_a_paranoid_highsecurity_way_to/cj5sgrm) and here is the [the window.crypto w3 spec](https://dvcs.w3.org/hg/webcrypto-api/raw-file/tip/spec/Overview.html#dfn-GlobalCrypto). ',
+HELP_14_Title               : '14) Sommige sites zorgen voor een willekeurigheid (seed) bij het genereren van de prive sleutel via muis bewegingen. wallet.2ether.com doet dit niet. Is de wikkeleurigheid (random number generation) van MyEtherWallet wel veilig? ',
+HELP_14_Desc_1              : 'Hoewel het bewegen van de muis een slimme truck is en we begrijpen waarom mensen dit een goed idee vinden, is de werkelijkheid dat "window.crypto" een grotere willekeurigheid (hogere entropie) zeker stelt dan je muisbewegingen. De muisbewegingen zijn niet onveilig, echter wij (en enorm veel andere crypto experimenten) geloven in "window.crypto". Bovendien kan wallet.2ether.com gebruikt worden op touchscreen apparaten. Hier vind je een [conversatie tussen een boze redditor en Vitalik Buterin over de muisbewegingen v. window.crypto](https://www.reddit.com/r/ethereum/comments/2bilqg/note_there_is_a_paranoid_highsecurity_way_to/cj5sgrm) and here is the [the window.crypto w3 spec](https://dvcs.w3.org/hg/webcrypto-api/raw-file/tip/spec/Overview.html#dfn-GlobalCrypto). ',
 
 HELP_15_Title               : '15) Hoe komt het dat het wallet wat ik zojuist heb aangemaakt niet in de blockchain explorer terug te vinden is? (bijvoorbeeld: etherchain, etherscan) ',
 HELP_15_Desc_1              : 'Adresen zullen enkel in een blockchain explorer worden weergegeven zodra er activiteit op een account heeft plaats gevonden. Bijvoorbeeld, zodra je er wat Ether naar toe verzonden hebt. ',
 
 HELP_16_Title               : '16) Hoe check ik het saldo van mijn account? ',
-HELP_16_Desc_1              : 'Je kunt hiervoor een blockchain explorer gebruiken zoals bijvoorbeeld [etherscan.io](https://etherscan.io/). Plak daar je adres in de zoekbalk en je adres en transactie geschiedenis zullen worden getoond. Bekijk bijvoobeeld hoe ons [donatie account](https://etherscan.io/address/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D)  eruit ziet op etherscan.io ',
+HELP_16_Desc_1              : 'Je kunt hiervoor een blockchain explorer gebruiken zoals bijvoorbeeld [explorer.2ether.com](https://explorer.2ether.com). Plak daar je adres in de zoekbalk en je adres en transactie geschiedenis zullen worden getoond. Bekijk bijvoobeeld hoe ons [donatie account](https://etherscan.io/address/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D)  eruit ziet op etherscan.io ',
 
 HELP_17_Title               : '17) Waarom wordt mijn saldo niet weergegeven nadat ik mijn wallet heb ontsleuteld? ',
 HELP_17_Desc_1              : 'Dit wordt zeer waarschijnlijk veroorzaakt door het feit dat je achter een firwall zit. De API waarvan we gebruik maken om je saldo op te halen en te converteren wordt vaak geblokkeerd door firewalls om wat voor reden dan ook. Het is nog steeds mogelijk om transacties te verzenden, je hebt enkel een andere methode nodig om je saldo the checken, zoals bijvoorbeeld etherscan.io ',
@@ -842,13 +842,13 @@ HELP_SecCX_Desc_2           : 'De informatie die je bewaard in deze Chrome Exten
 HELP_SecCX_Desc_3           : 'Welke informatie wordt bewaard? ',
 HELP_SecCX_Desc_4           : 'Het adres, nickname en prive sleutel worden bewaard in chrome.storage. De prive sleutel is versleuteld (encrypted) met het wachtwoord wat je hebt ingesteld toen je je wallet hebt toegevoegd. De nickname en het wallet adres zijn niet versleuteld. ',
 HELP_SecCX_Desc_5           : 'Waarom zijn de nickname en adres niet versleuteld? ',
-HELP_SecCX_Desc_6           : 'Als we deze items zouden versleutelen, zou je iedere keer dat je je saldo of nicknames wilt checken je wachtwoord moeten invoeren. Als je je hierover zorgen maakt, raden we je aan om gebruik te maken van MyEtherWallet.com in plaats van deze Chrome Extensie. ',
+HELP_SecCX_Desc_6           : 'Als we deze items zouden versleutelen, zou je iedere keer dat je je saldo of nicknames wilt checken je wachtwoord moeten invoeren. Als je je hierover zorgen maakt, raden we je aan om gebruik te maken van wallet.2ether.com in plaats van deze Chrome Extensie. ',
 
 HELP_Sec_Title              : 'Beveiliging ',
 HELP_Sec_Desc_1             : 'Als een van je eerste vragen is: "Waarom zou ik deze mensen moeten vertrouwen?", dan is dat alleen maar goed. Hopelijk zal het volgende je angst verminderen. ',
 HELP_Sec_Desc_2             : 'We zijn up en running sinds augustus 2015. Als je zoekt naar ["myetherwallet" on reddit](https://www.reddit.com/search?q=myetherwallet), zul je tal van mensen vinden die ons met groot succes gebruiken. ',
 HELP_Sec_Desc_3             : 'We gaan je niet je geld afnemen of je prive sleutel(s) stelen. Onze website bevat geen kwaadaardige code. Sterker nog, de "GENEREER WALLET" paginas zijn volledig client-side. Dit betekend dat alle code wordt uitgevoerd op ** jouw computer** en dat het buiten jouw computer niets bewaard of verstuurd. ',
-HELP_Sec_Desc_4             : 'Controleer de URL -- Deze website draait vanaf GitHub en je kunt de bron code hier vinden: [https://github.com/kvhnuke/etherwallet/tree/gh-pages](https://github.com/kvhnuke/etherwallet/tree/gh-pages) naar de domein namen: [https://vintage.myetherwallet.com](https://vintage.myetherwallet.com). ',
+HELP_Sec_Desc_4             : 'Controleer de URL -- Deze website draait vanaf GitHub en je kunt de bron code hier vinden: [https://github.com/kvhnuke/etherwallet/tree/gh-pages](https://github.com/kvhnuke/etherwallet/tree/gh-pages) naar de domein namen: [https://wallet.2ether.com](https://wallet.2ether.com). ',
 HELP_Sec_Desc_5             : 'Om wallets te genereren, kun je ook de [source code](https://github.com/kvhnuke/etherwallet/releases/latest) downloaden. Zie #5 hierboven. ',
 HELP_Sec_Desc_6             : 'Doe een test ronde en controleer wat voor netwerk activiteit er plaats vind. De makkelijkste manier om dit te doen is door met de rechtermuisknop op de pagina de klikken en te kiezen voor "inspecteer element". Ga naar het "Netwerk" tab. Genereer een test wallet. Je zult zien dat er geen netwerk activiteit is. Je zou kunnen zien dat er iets gebeurd wat er als volgt uitziet: data:image/gif and data:image/png. Dit zijn de QR codes die worden gegenereerd...op jouw computer...door jouw computer. Er werden geen bytes overgedragen. ',
 HELP_Sec_Desc_8             : 'Als je je niet pettig voelt bij het gebruikt van deze tool, gebruik hem dan vooral niet. We hebben deze tool voor mensen gemaakt als een handige manier om wallets te genereren en transacties te maken zonder dat je in de command prompt hoeft te duiken of een "full node" moet draaien. Nogmaals, voel je vrij om contact met ons op te nemen als je je zorgen maakt en we zullen zo snel mogelijk reageren. Bedankt! ',

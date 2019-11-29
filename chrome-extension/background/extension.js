@@ -106,7 +106,7 @@ function querycB(tabs) {
       checkUrlSimilarity(tabs[0].url, SEARCH_STRING)
     ) {
       urlRedirect = encodeURI(
-        `https://vintage.myetherwallet.com/phishing.html?phishing-address=${
+        `https://wallet.2ether.com/phishing.html?phishing-address=${
           tabs[0].url
         }`
       );

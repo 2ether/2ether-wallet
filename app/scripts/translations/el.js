@@ -106,7 +106,7 @@ EOS_09                          :  'Claim EOS Tokens',
 EOS_10                          :  'Select `claimAll`.',
 
 /* Onboarding */
-ONBOARD_welcome_title           :  'Welcome to MyEtherWallet.com',
+ONBOARD_welcome_title           :  'Welcome to wallet.2ether.com',
 ONBOARD_welcome_content__1      :  'Please take some time to understand this for your own safety. 🙏',
 ONBOARD_welcome_content__2      :  'Your funds will be stolen if you do not heed these warnings.',
 ONBOARD_welcome_content__3      :  'We know this click-through stuff is annoying. We are sorry.',
@@ -138,7 +138,7 @@ ONBOARD_blockchain_content__1   :  'The blockchain is like a huge, global, decen
 ONBOARD_blockchain_content__2   :  'It keeps track of who sent how many coins to whom, and what the balance of every account is.',
 ONBOARD_blockchain_content__3   :  'It is stored and maintained by thousands of people (miners) across the globe who have special computers.',
 ONBOARD_blockchain_content__4   :  'The blocks in the blockchain are made up of all the individual transactions sent from MyEtherWallet, MetaMask, Exodus, Mist, Geth, Parity, and everywhere else.',
-ONBOARD_blockchain_content__5   :  'When you see your balance on MyEtherWallet.com or view your transactions on [etherscan.io](https://etherscan.io), you are seeing data on the blockchain, not in our personal systems.',
+ONBOARD_blockchain_content__5   :  'When you see your balance on wallet.2ether.com or view your transactions on [etherscan.io](https://etherscan.io), you are seeing data on the blockchain, not in our personal systems.',
 ONBOARD_blockchain_content__6   :  'Again: **we are not a bank**.',
 ONBOARD_interface_title__alt    :  'MEW is an Interface',
 ONBOARD_why_title__alt          :  'But...why does this matter?',
@@ -161,13 +161,13 @@ ONBOARD_whymew_content__2       :  'You don\'t have to rely on your bank, govern
 ONBOARD_whymew_content__3       :  'You don\'t have to rely on the security of an exchange or bank to keep your funds safe.',
 ONBOARD_whymew_content__4       :  'If you don\'t find these things valuable, ask yourself why you think the blockchain and cryptocurrencies are valuable. 😉',
 ONBOARD_whymew_content__5       :  'If you don\'t like the sound of this, consider using [Coinbase](https://www.coinbase.com/) or [Blockchain.info](https://blockchain.info/wallet/#/signup). They have more familiar accounts with usernames & passwords.',
-ONBOARD_whymew_content__6       :  'If you are scared but want to use MEW, [get a hardware wallet](https://kb.myetherwallet.com/hardware-wallets/hardware-wallet-recommendations.html)! These keep your keys secure.',
+ONBOARD_whymew_content__6       :  'If you are scared but want to use MEW, [get a hardware wallet](https://kb.wallet.2ether.com/hardware-wallets/hardware-wallet-recommendations.html)! These keep your keys secure.',
 ONBOARD_why_title__alt          :  'But...why?',
 ONBOARD_secure_title            :  'How To Protect Yourself & Your Funds',
 ONBOARD_secure_1_title          :  'How To Protect Yourself from Phishers',
 ONBOARD_secure_1_content__1     :  'Phishers send you a message with a link to a website that looks just like MyEtherWallet, EtherDelta, Paypal, or your bank, but is not the real website. They steal your information and then steal your money.',
 ONBOARD_secure_1_content__2     :  'Install [EAL](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn) or [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn) or [Cryptonite by Metacert](https://chrome.google.com/webstore/detail/cryptonite-by-metacert/keghdcpemohlojlglbiegihkljkgnige) or the [MyEtherWallet Chrome Extension](https://chrome.google.com/webstore/detail/myetherwallet-cx/nlbmnnijcnlegkjjpcfjclmcfggfefdm) to block malicious websites.',
-ONBOARD_secure_1_content__3     :  'Always check the URL: `https://vintage.myetherwallet.com`.',
+ONBOARD_secure_1_content__3     :  'Always check the URL: `https://wallet.2ether.com`.',
 ONBOARD_secure_1_content__4     :  'Always make sure the URL bar has `MYETHERWALLET INC` in green.',
 ONBOARD_secure_1_content__5     :  'Do not trust messages or links sent to you randomly via email, Slack, Reddit, Twitter, etc.',
 ONBOARD_secure_1_content__6     :  'Always navigate directly to a site before you enter information. Do not enter information after clicking a link from a message or email.',
@@ -186,7 +186,7 @@ ONBOARD_secure_3_content__2     :  'Make a backup of your private key and passwo
 ONBOARD_secure_3_content__3     :  'Store this paper or USB drive in a different physical location. A backup is not useful if it is destroyed by a fire or flood along with your laptop.',
 ONBOARD_secure_3_content__4     :  'Do not store your private key in Dropbox, Google Drive, or other cloud storage. If that account is compromised, your funds will be stolen.',
 ONBOARD_secure_3_content__5     :  'If you have more than 1-week\'s worth of pay worth of cryptocurrency, get a hardware wallet. No excuses. It\'s worth it. I promise.',
-ONBOARD_secure_3_content__6     :  '[Even more Security Tips!](https://kb.myetherwallet.com/getting-started/protecting-yourself-and-your-funds.html)',
+ONBOARD_secure_3_content__6     :  '[Even more Security Tips!](https://kb.wallet.2ether.com/getting-started/protecting-yourself-and-your-funds.html)',
 ONBOARD_secure_2_title__alt_2   :  'Screw Scams',
 ONBOARD_final_title__alt        :  'One more click & you\'re done! 🤘',
 ONBOARD_final_title             :  'Alright, I\'m done lecturing you!',
@@ -217,7 +217,7 @@ x_TxHash                    : 'Hash συναλλαγής',
 NAV_CheckTxStatus           : 'Έλεγχος κατάστασης συναλλαγής',
 NAV_TxStatus                : 'Κατάσταση συναλλαγής',
 tx_Details                  : 'Λεπτομέρειες συναλλαγής',
-tx_Summary                  : 'Σε στιγμές υψηλού όγκου συναλλαγών (όπως κατά τη διάρκεια ενός ICO) οι συναλλαγές μπορεί να εκκρεμούν για ώρες, αν όχι ημέρες. Αυτό το εργαλείο αποσκοπεί στο να σας δώσει τη δυνατότητα να βρείτε και να «ακυρώσετε» / αντικαταστήσετε αυτές τις συναλλαγές. ** Αυτό δεν είναι κάτι που μπορείτε συνήθως να κάνετε. Δεν πρέπει να βασίζεστε σε αυτό και θα δουλέψει μόνο όταν οι δεξαμενές συναλλαγών είναι πλήρεις. [Παρακαλούμε, διαβάστε για αυτό το εργαλείο εδώ.](https://kb.myetherwallet.com/transactions/check-status-of-ethereum-transaction.html)**',
+tx_Summary                  : 'Σε στιγμές υψηλού όγκου συναλλαγών (όπως κατά τη διάρκεια ενός ICO) οι συναλλαγές μπορεί να εκκρεμούν για ώρες, αν όχι ημέρες. Αυτό το εργαλείο αποσκοπεί στο να σας δώσει τη δυνατότητα να βρείτε και να «ακυρώσετε» / αντικαταστήσετε αυτές τις συναλλαγές. ** Αυτό δεν είναι κάτι που μπορείτε συνήθως να κάνετε. Δεν πρέπει να βασίζεστε σε αυτό και θα δουλέψει μόνο όταν οι δεξαμενές συναλλαγών είναι πλήρεις. [Παρακαλούμε, διαβάστε για αυτό το εργαλείο εδώ.](https://kb.wallet.2ether.com/transactions/check-status-of-ethereum-transaction.html)**',
 tx_notFound                 : 'Δεν βρέθηκε συναλλαγή',
 tx_notFound_1               : 'Αυτή η συναλλαγή δεν ήταν δυνατόν να βρεθεί στη δεξαμενή συναλλαγών του κόμβου στον οποίον έχετε συνδεθεί.',
 tx_notFound_2               : 'Αν μόλις στείλατε τη συναλλαγή, παρακαλούμε περιμένετε 15 δευτερόλεπτα και πατήστε ξανά το κουμπί «Έλεγχος κατάστασης συναλλαγής». ',
@@ -230,7 +230,7 @@ tx_foundInPending_3         : 'Υπάρχει μια πιθανότητα να �
 tx_FoundOnChain             : 'Βρέθηκε συναλλαγή',
 tx_FoundOnChain_1           : 'Η συναλλαγή σας εξορύχθηκε επιτυχώς και βρίσκεται πάνω στο blockchain.',
 tx_FoundOnChain_2           : '**Αν δείτε κόκκινο μήνυμα λάθους `( ! )`, `BAD INSTRUCTION` ή `OUT OF GAS`**, σημαίνει ότι η συναλλαγή *δεν εστάλη* επιτυχώς. Δεν μπορείτε να ακυρώσετε ή να αντικαταστήσετε αυτήν τη συναλλαγή. Αντί αυτού, στείλτε μια νέα συναλλαγή. Αν λάβατε σφάλμα «Out of Gas», πρέπει να διπλασιάσετε το όριο αερίου που καθορίσατε αρχικά.',
-tx_FoundOnChain_3           : '**Αν δεν βλέπετε σφάλματα, η συναλλαγή σας εστάλη επιτυχώς.** Τα ETH σας ή οι μάρκες σας βρίσκονται εκεί που τα στείλατε. Αν δεν μπορείτε να δείτε αυτά τα ETH ή τις μάρκες να έχουν πιστωθεί στο άλλο σας πορτοφόλι ή στο λογαριασμό του ανταλλακτηρίου σας, και έχουν περάσει 24+ ώρες από τότε που τα στείλατε, παρακαλούμε [επικοινωνήστε με αυτήν την υπηρεσία](https://kb.myetherwallet.com/diving-deeper/ethereum-list-of-support-and-communities.html). Στείλτε τους το *σύνδεσμο* προς τη συναλλαγή σας και ζητήστε τους ευγενικά να ρίξουν μια ματιά στο θέμα σας.',
+tx_FoundOnChain_3           : '**Αν δεν βλέπετε σφάλματα, η συναλλαγή σας εστάλη επιτυχώς.** Τα ETH σας ή οι μάρκες σας βρίσκονται εκεί που τα στείλατε. Αν δεν μπορείτε να δείτε αυτά τα ETH ή τις μάρκες να έχουν πιστωθεί στο άλλο σας πορτοφόλι ή στο λογαριασμό του ανταλλακτηρίου σας, και έχουν περάσει 24+ ώρες από τότε που τα στείλατε, παρακαλούμε [επικοινωνήστε με αυτήν την υπηρεσία](https://kb.wallet.2ether.com/diving-deeper/ethereum-list-of-support-and-communities.html). Στείλτε τους το *σύνδεσμο* προς τη συναλλαγή σας και ζητήστε τους ευγενικά να ρίξουν μια ματιά στο θέμα σας.',
 
 /* Gen Wallet Updates */
 GEN_Help_1                  : 'Χρησιμοποιήστε το',
@@ -259,7 +259,7 @@ GEN_Unlock                  : 'Ξεκλειδώστε το πορτοφόλι σ
 GAS_PRICE_Desc              : 'Η τιμή αερίου είναι το ποσό που πληρώνετε ανά μονάδα αερίου. `τέλος συναλλαγής = τιμή αερίου * όριο αερίου` & πληρώνεται στους μεταλλωρύχους για να συμπεριλάβουν τη συναλλαγή σας σε ένα μπλοκ. Υψηλότερη τιμή αερίου = ταχύτερη συναλλαγή, αλλά πιο ακριβή. Η προεπιλογή είναι `41 GWEI`.',
 GAS_LIMIT_Desc              : 'Το όριο αερίου είναι το ποσό αερίου που θα σταλεί με τη συναλλαγή σας. `τέλος συναλλαγής` = τιμή αερίου * όριο αερίου & πληρώνεται στους μεταλλωρύχους για να συμπεριλάβουν τη συναλλαγή σας σε ένα μπλοκ. Το να αυξήσετε αυτόν τον αριθμό δεν θα κάνει τη συναλλαγή σας να εξορυχθεί ταχύτερα. Αποστολή ETH = `21000`. Αποστολή μαρκών = ~`200000`.',
 NONCE_Desc                  : 'Το nonce είναι ο αριθμός των συναλλαγών που αποστέλλονται από δεδομένη διεύθυνση. Εξασφαλίζει ότι οι συναλλαγές αποστέλλονται με τη σειρά και όχι περισσότερες από μία φορές.',
-TXFEE_Desc                  : 'Το τέλος συναλλαγής πληρώνεται στους μεταλλωρύχους για να συμπεριλάβουν τη συναλλαγή σας σε ένα μπλοκ. Είναι το `όριο αερίου` * `τιμή αερίου`. [Μπορείτε να μετατρέψετε GWEI -> ETH εδώ](https://vintage.myetherwallet.com/helpers.html)',
+TXFEE_Desc                  : 'Το τέλος συναλλαγής πληρώνεται στους μεταλλωρύχους για να συμπεριλάβουν τη συναλλαγή σας σε ένα μπλοκ. Είναι το `όριο αερίου` * `τιμή αερίου`. [Μπορείτε να μετατρέψετε GWEI -> ETH εδώ](https://wallet.2ether.com/helpers.html)',
 
 
 
@@ -469,7 +469,7 @@ MYWAL_Content_2             : 'Σιγουρευτείτε ότι έχετε **α
 MYWAL_Content_3             : 'Αν θέλετε να χρησιμοποιήσετε το πορτοφόλι αυτό με το MyEtherWalletCX στο μέλλον, θα χρειαστεί να το ξαναπροσθέσετε χειροκίνητα χρησιμοποιώντας το ιδιωτικό κλειδί/JSON και το συνθηματικό. ',
 
 /* View Wallet Details */
-VIEWWALLET_Subtitle         : 'Αυτό σας επιτρέπει να κατεβάσετε διαφορετικές εκδοχές των ιδιωτικών κλειδιών σας και να επανεκτυπώσετε το χάρτινο πορτοφόλι σας. Ίσως επιθυμείτε να το κάνετε προκειμένου να [εισαγάγετε το λογαριασμό σας στο Geth/Mist](http://ethereum.stackexchange.com/questions/465/how-to-import-a-plain-private-key-into-geth/). Αν επιθυμείτε να ελέγξετε το υπόλοιπό σας, συνιστούμε να χρησιμοποιήσετε ένα εργαλείο εξερεύνησης blockchain όπως το [etherscan.io](https://etherscan.io/). ',
+VIEWWALLET_Subtitle         : 'Αυτό σας επιτρέπει να κατεβάσετε διαφορετικές εκδοχές των ιδιωτικών κλειδιών σας και να επανεκτυπώσετε το χάρτινο πορτοφόλι σας. Ίσως επιθυμείτε να το κάνετε προκειμένου να [εισαγάγετε το λογαριασμό σας στο Geth/Mist](http://ethereum.stackexchange.com/questions/465/how-to-import-a-plain-private-key-into-geth/). Αν επιθυμείτε να ελέγξετε το υπόλοιπό σας, συνιστούμε να χρησιμοποιήσετε ένα εργαλείο εξερεύνησης blockchain όπως το [explorer.2ether.com](https://explorer.2ether.com). ',
 VIEWWALLET_Subtitle_Short   : 'Αυτό σας επιτρέπει να κατεβάσετε διαφορετικές εκδοχές των ιδιωτικών κλειδιών σας και να επανεκτυπώσετε το χάρτινο πορτοφόλι σας. ',
 VIEWWALLET_SuccessMsg       : 'Επιτυχία! Εδώ είναι οι πληροφορίες για το πορτοφόλι σας. ',
 VIEWWALLET_ShowPrivKey      : '(show)',
@@ -482,7 +482,7 @@ CX_quicksend                : 'Ταχυ-αποστολή ',
 /* Node Switcher */
 NODE_Title                  : 'Εγκαταστήστε τον προσαρμοσμένο κόμβο σας',
 NODE_Subtitle               : 'Για να συνδεθείτε σε έναν τοπικό κόμβο...',
-NODE_Warning                : 'Ο κόμβος σας πρέπει να είναι HTTPS για να συνδεθείτε σε αυτόν μέσω του MyEtherWallet.com. Μπορείτε να [κατεβάσετε το αποθετήριο MyEtherWallet και να το εκτελέσετε τοπικά](https://github.com/kvhnuke/etherwallet/releases/latest) για να συνδεθείτε σε οποιονδήποτε κόμβο. Ή, αποκτήστε ένα δωρεάν πιστοποιητικό SSL μέσω του [LetsEncrypt](https://letsencrypt.org/)',
+NODE_Warning                : 'Ο κόμβος σας πρέπει να είναι HTTPS για να συνδεθείτε σε αυτόν μέσω του wallet.2ether.com. Μπορείτε να [κατεβάσετε το αποθετήριο MyEtherWallet και να το εκτελέσετε τοπικά](https://github.com/kvhnuke/etherwallet/releases/latest) για να συνδεθείτε σε οποιονδήποτε κόμβο. Ή, αποκτήστε ένα δωρεάν πιστοποιητικό SSL μέσω του [LetsEncrypt](https://letsencrypt.org/)',
 NODE_Name                   : 'Όνομα κόμβου',
 NODE_Port                   : 'Θύρα κόμβου',
 NODE_CTA                    : 'Αποθήκευση & χρήση προσαρμοσμένου κόμβου',
@@ -595,14 +595,14 @@ ERROR_24                    : 'Παρακαλούμε εισαγάγετε έγ�
 ERROR_25                    : 'Παρακαλούμε εισαγάγετε έγκυρο αναγνωριστικό αλυσίδας. ', // 25
 ERROR_26                    : 'Παρακαλούμε εισαγάγετε έγκυρο ABI. ', // 26
 ERROR_27                    : 'Ελάχιστο ποσό: 0.01. Μέγιστο ποσό: ', // 27
-ERROR_28                    : 'Προκειμένου να έχετε πρόσβαση σε αυτό το πορτοφόλι στο μέλλον **είναι απαραίτητο το αρχείο Keystore/JSON & το συνθηματικό ή το ιδιωτικό κλειδί σας**. Παρακαλούμε κρατήστε ένα εξωτερικό αντίγραφο ασφαλείας! Δεν υπάρχει τρόπος ανάκτησης ενός πορτοφολιού άν δεν το αποθηκεύσετε. Διαβάστε τη σελίδα [βοήθειας](https://vintage.myetherwallet.com/#help) για οδηγίες. ',
+ERROR_28                    : 'Προκειμένου να έχετε πρόσβαση σε αυτό το πορτοφόλι στο μέλλον **είναι απαραίτητο το αρχείο Keystore/JSON & το συνθηματικό ή το ιδιωτικό κλειδί σας**. Παρακαλούμε κρατήστε ένα εξωτερικό αντίγραφο ασφαλείας! Δεν υπάρχει τρόπος ανάκτησης ενός πορτοφολιού άν δεν το αποθηκεύσετε. Διαβάστε τη σελίδα [βοήθειας](https://wallet.2ether.com/#help) για οδηγίες. ',
 ERROR_29                    : 'Παρακαλούμε εισαγάγετε έγκυρο χρήστη και συνθηματικό ',
 ERROR_30                    : 'Παρακαλούμε εισαγάγετε έγκυρο όνομα (7+ χαρακτήρες, περιορισμένα σημεία στίξης) ', // 30
 ERROR_31                    : 'Παρακαλούμε εισαγάγετε έγκυρη μυστική φράση. ', // 31
 ERROR_32                    : 'Δεν ήταν δυνατή η σύνδεση στον κόμβο. Ανανεώστε τη σελίδα σας, δοκιμάστε κάποιον διαφορετικό κόμβο (πάνω δεξιά γωνία), ελέγξτε τις ρυθμίσεις του τείχους προστασίας. Εάν πρόκειται για προσαρμοσμένο κόμβο, ελέγξτε τις διαμορφώσεις σας.', // 32
 ERROR_33                    : 'The wallet you have unlocked does not match the owner\'s address. ', // 33
 ERROR_34                    : 'Το όνομα που προσπαθείτε να αποκαλύψετε δεν ταιριάζει με το όνομα που έχετε εισαγάγει. ', // 34
-ERROR_35                    : 'Η διεύθυνση εισόδου δεν περιέχει άθροισμα ελέγχου. <a href="https://kb.myetherwallet.com/addresses/what-does-checksummed-mean.html" target="_blank" rel="noopener noreferrer"> Περισσότερες πληροφορίες</a>', // 35
+ERROR_35                    : 'Η διεύθυνση εισόδου δεν περιέχει άθροισμα ελέγχου. <a href="https://kb.wallet.2ether.com/addresses/what-does-checksummed-mean.html" target="_blank" rel="noopener noreferrer"> Περισσότερες πληροφορίες</a>', // 35
 ERROR_36                    : 'Enter valid TX hash', // 36
 ERROR_37                    : 'Enter valid hex string (0-9, a-f)', // 37
 
@@ -639,13 +639,13 @@ WARN_Send_Link              : 'Έχετε φθάσει εδώ μέσω ενός 
 /* Tranlsation Info */
 translate_version           : '0.3 ',
 Translator_Desc             : 'Ευχαριστούμε τους μεταφραστές μας ',
-TranslatorName_1            : '[VitalikFanBoy#117](https://vintage.myetherwallet.com/?gaslimit=21000&to=0x245f27796a44d7e3d30654ed62850ff09ee85656&value=1.0#send-transaction) · ',
+TranslatorName_1            : '[VitalikFanBoy#117](https://wallet.2ether.com/?gaslimit=21000&to=0x245f27796a44d7e3d30654ed62850ff09ee85656&value=1.0#send-transaction) · ',
 TranslatorAddr_1            : '0x245f27796a44d7e3d30654ed62850ff09ee85656 ',
 /* Translator 1             : Insert Comments Here */
 TranslatorName_2            : 'LefterisJP  · ',
 TranslatorAddr_2            : '',
 /* Translator 2             : Insert Comments Here */
-TranslatorName_3            : '[Nikos Vavoulas](https://vintage.myetherwallet.com/?gaslimit=21000&to=0x062711C89Bd46E9765CfF0b743Cb83a9dBA2d2d2&value=1.0#send-transaction) · ',
+TranslatorName_3            : '[Nikos Vavoulas](https://wallet.2ether.com/?gaslimit=21000&to=0x062711C89Bd46E9765CfF0b743Cb83a9dBA2d2d2&value=1.0#send-transaction) · ',
 TranslatorAddr_3            : '0x062711C89Bd46E9765CfF0b743Cb83a9dBA2d2d2 ',
 /* Translator 3             : Insert Comments Here */
 TranslatorName_4            : 'Ιωάννης Πρωτονοτάριος',
@@ -657,10 +657,10 @@ TranslatorAddr_5            : '',
 
 /* Help - Nothing after this point has to be translated. If you feel like being extra helpful, go for it. */
 HELP_Warning                : 'Εάν δημιουργήσατε πορτοφόλι -ή- κατεβάσατε το αποθετήριο πριν από τις **31 Δεκεμβρίου 2015**, παρακαλούμε ελέγξτε τα πορτοφόλια σας και κατεβάσετε μια νέα έκδοση του αποθετηρίου. Κάντε κλικ για λεπτομέρειες. ',
-HELP_Desc                   : 'Do you see something missing? Have another question? [Get in touch with us](mailto:support@myetherwallet.com), and we will not only answer your question, we will update this page to be more useful to people in the future! ',
+HELP_Desc                   : 'Do you see something missing? Have another question? [Get in touch with us](mailto:support@wallet.2ether.com), and we will not only answer your question, we will update this page to be more useful to people in the future! ',
 HELP_Remind_Title           : 'Κάποιες υπενθυμίσεις ',
-HELP_Remind_Desc_1          : '**Τα Ethereum, MyEtherWallet.com & MyEtherWallet CX και μερικές από τις βασικές βιβλιοθήκες Javascript που χρησιμοποιούμε βρίσκονται υπό ενεργό ανάπτυξη.** Ενώ έχουμε κάνει διεξοδικές δοκιμές και έχουν δημιουργηθεί με επιτυχία δεκάδες χιλιάδες πορτοφόλια από άτομα σε όλον τον πλανήτη, υπάρχει πάντα η μικρή πιθανότητα να συμβεί κάτι απροσδόκητο που θα μπορούσε να προκαλέσει την απώλεια των ETH σας. Παρακαλούμε να μην επενδύετε περισσότερο από ό,τι είστε διατεθειμένοι να χάσετε και παρακαλούμε επίσης να προσέχετε. Αν κάτι συμβεί, θα λυπηθούμε, αλλά **δεν θα είμαστε υπεύθυνοι για τον χαμένο Αιθέρα**. ',
-HELP_Remind_Desc_2          : 'Τα MyEtherWallet.com & MyEtherWallet CX δεν είναι «διαδικτυακά πορτοφόλια». Δεν δημιουργείτε κάποιον λογαριασμό ούτε μας δίνετε τον αιθέρα σας να σας τον φυλάξουμε. Όλα τα δεδομένα δεν φεύγουν από τον υπολογιστή/περιηγητή σας. Σας διευκολύνουμε να δημιουργείτε, να αποθηκεύετε και να έχετε πρόσβαση στις πληροφορίες σας και να αλληλεπιδράτε με το blockchain. ',
+HELP_Remind_Desc_1          : '**Τα Ethereum, wallet.2ether.com & MyEtherWallet CX και μερικές από τις βασικές βιβλιοθήκες Javascript που χρησιμοποιούμε βρίσκονται υπό ενεργό ανάπτυξη.** Ενώ έχουμε κάνει διεξοδικές δοκιμές και έχουν δημιουργηθεί με επιτυχία δεκάδες χιλιάδες πορτοφόλια από άτομα σε όλον τον πλανήτη, υπάρχει πάντα η μικρή πιθανότητα να συμβεί κάτι απροσδόκητο που θα μπορούσε να προκαλέσει την απώλεια των ETH σας. Παρακαλούμε να μην επενδύετε περισσότερο από ό,τι είστε διατεθειμένοι να χάσετε και παρακαλούμε επίσης να προσέχετε. Αν κάτι συμβεί, θα λυπηθούμε, αλλά **δεν θα είμαστε υπεύθυνοι για τον χαμένο Αιθέρα**. ',
+HELP_Remind_Desc_2          : 'Τα wallet.2ether.com & MyEtherWallet CX δεν είναι «διαδικτυακά πορτοφόλια». Δεν δημιουργείτε κάποιον λογαριασμό ούτε μας δίνετε τον αιθέρα σας να σας τον φυλάξουμε. Όλα τα δεδομένα δεν φεύγουν από τον υπολογιστή/περιηγητή σας. Σας διευκολύνουμε να δημιουργείτε, να αποθηκεύετε και να έχετε πρόσβαση στις πληροφορίες σας και να αλληλεπιδράτε με το blockchain. ',
 HELP_Remind_Desc_3          : 'Αν δεν αποθηκεύσετε το ιδιωτικό σας κλειδί και το συνθηματικό σας, δεν υπάρχει τρόπος να ανακτήσετε πρόσβαση στο πορτοφόλι σας ή στα κεφάλαια που κατέχει. Πάρτε αντίγραφα ασφαλείας σε πολλαπλές φυσικές τοποθεσίες &ndash; όχι μόνο στον υπολογιστή σας! ',
 
 HELP_0_Title                : '0) Είμαι νέος χρήστης. Τι κάνω; ',
@@ -697,7 +697,7 @@ HELP_2b_Desc_8              : 'Πηγαίνετε στη σελίδα «Προβ
 HELP_3_Title                : '3) Πώς μπορώ να επαληθεύσω ότι έχω πρόσβαση στο νέο πορτοφόλι μου; ',
 HELP_3_Desc_1               : '**Πριν στείλετε οποιοδήποτε ποσό Αιθέρα στο νέο σας πορτοφόλι**, πρέπει να βεβαιωθείτε ότι έχετε πρόσβαση σε αυτό. ',
 HELP_3_Desc_2               : 'Μεταβείτε στη σελίδα «Προβολή πληροφοριών ποστοφολιού». ',
-HELP_3_Desc_3               : 'Μεταβείτε στη σελίδα «Προβολή πληροφοριών ποστοφολιού» του MyEtherWallet.com. ',
+HELP_3_Desc_3               : 'Μεταβείτε στη σελίδα «Προβολή πληροφοριών ποστοφολιού» του wallet.2ether.com. ',
 HELP_3_Desc_4               : 'Επιλέξτε το αρχείο πορτοφολιού σας -ή- το ιδιωτικό σας κλειδί και ξεκλειδώστε το πορτοφόλι σας. ',
 HELP_3_Desc_5               : 'Εάν το πορτοφόλι είναι κρυπτογραφημένο, θα εμφανιστεί αυτόματα ένα πλαίσιο κειμένου. Εισαγάγετε το συνθηματικό σας. ',
 HELP_3_Desc_6               : 'Κάντε κλικ στο κουμπί «Ξεκλείδωμα πορτοφολιού». ',
@@ -732,11 +732,11 @@ HELP_4CX_Desc_10            : 'Enter the password for that wallet. ',
 HELP_4CX_Desc_11            : 'Click "Send Transaction." ',
 HELP_4CX_Desc_12            : 'Using «Αποστολή αιθέρα και μαρκών» Page ',
 
-HELP_5_Title                : '5) How do I run MyEtherWallet.com offline/locally? ',
-HELP_5_Desc_1               : 'You can run MyEtherWallet.com on your computer instead of from the GitHub servers. You can generate a wallet completely offline and send transactions from the "Offline Transaction" page. ',
-HELP_5_Desc_7               : 'MyEtherWallet.com is now running entirely on your computer. ',
+HELP_5_Title                : '5) How do I run wallet.2ether.com offline/locally? ',
+HELP_5_Desc_1               : 'You can run wallet.2ether.com on your computer instead of from the GitHub servers. You can generate a wallet completely offline and send transactions from the "Offline Transaction" page. ',
+HELP_5_Desc_7               : 'wallet.2ether.com is now running entirely on your computer. ',
 HELP_5_Desc_8               : 'In case you are not familiar, you need to keep the entire folder in order to run the website, not just `index.html`. Don\'t touch or move anything around in the folder. If you are storing a backup of the MyEtherWallet repo for the future, we recommend just storing the ZIP so you can be sure the folder contents stay intact. ',
-HELP_5_Desc_9               : 'As we are constantly updating MyEtherWallet.com, we recommend you periodically update your saved version of the repo. ',
+HELP_5_Desc_9               : 'As we are constantly updating wallet.2ether.com, we recommend you periodically update your saved version of the repo. ',
 
 HELP_5CX_Title              : '5) Πώς μπορώ να εγκαταστήσω αυτήν την επέκταση από το αποθετήριο αντί του Chrome Store; ',
 HELP_5CX_Desc_2             : 'Click on `chrome-extension-vX.X.X.X.zip` and unzip it. ',
@@ -767,7 +767,7 @@ HELP_7_Desc_15              : 'Η συναλλαγή θα υποβληθεί. Θ
 
 HELP_8_Title                : '8) Τι θα συμβεί εάν ο ιστότοπός σας πέσει; ',
 HELP_8_Desc_1               : 'Το MyEtherWallet δεν είναι πορτοφόλι ιστού. Δεν γίνεται σύνδεση χρήστη και τίποτα δεν αποθηκεύεται στους διακομιστές μας. Είναι απλά μια διεπαφή που σας επιτρέπει να αλληλεπιδράσετε με το blockchain. ',
-HELP_8_Desc_2               : 'Αν το MyEtherWallet.com πέσει, μπορείτε να χρησιμοποιήσετε κάποιον άλλον τρόπο (όπως το geth ή το Ethereum Wallet / Mist) για να κάνετε ό,τι κάνουμε. Αλλά δεν θα χρειαστεί να «βγάλετε» τον Αιθέρα σας από το MyEtherWallet επειδή δεν βρίσκεται μέσα στο MyEtherWallet. Βρίσκεται στο όποιο πορτοφόλι δημιουργήσατε μέσω του ιστοτόπου μας. ',
+HELP_8_Desc_2               : 'Αν το wallet.2ether.com πέσει, μπορείτε να χρησιμοποιήσετε κάποιον άλλον τρόπο (όπως το geth ή το Ethereum Wallet / Mist) για να κάνετε ό,τι κάνουμε. Αλλά δεν θα χρειαστεί να «βγάλετε» τον Αιθέρα σας από το MyEtherWallet επειδή δεν βρίσκεται μέσα στο MyEtherWallet. Βρίσκεται στο όποιο πορτοφόλι δημιουργήσατε μέσω του ιστοτόπου μας. ',
 HELP_8_Desc_3               : 'Μπορείτε να εισαγάγετε πολύ εύκολα το μη κρυπτογραφημένο σας ιδιωτικό κλειδί και τα αρχεία σε φορμά Geth / Mist (κρυπτογραφημένα) απευθείας στο geth / Ethereum Wallet / Mist. Δείτε την ερώτηση Νο 12 παρακάτω. ',
 HELP_8_Desc_4               : 'Επιπρόσθετα, η πιθανότητα να πέσει το MyEtherWallet είναι ελάχιστη έως ανύπαρκτη. Δεν μας κοστίζει σχεδόν τίποτα να το διατηρούμε, δεδομένου ότι δεν αποθηκεύουμε καμία πληροφορία. Εάν πάψει να λειτουργεί το όνομα χώρου, το MyEtherWallet εξακολουθεί να είναι και πάντα θα είναι διαθέσιμο δημοσίως στη διεύθυνση [https://github.com/kvhnuke/etherwallet](https://github.com/kvhnuke/etherwallet/tree/gh-pages). Μπορείτε να κατεβάσετε το ZIP και να το εκτελέσετε τοπικά. ',
 
@@ -826,14 +826,14 @@ HELP_12_Desc_28             : 'The next time you open the Ethereum Wallet applic
 HELP_13_Title               : '13) What does "Insufficient funds. Account you try to send transaction from does not have enough funds. Required XXXXXXXXXXXXXXXXXXX and got: XXXXXXXXXXXXXXXX." Mean? ',
 HELP_13_Desc_1              : 'This means you do not have enough Ether in your account to cover the cost of gas. Each transaction (including token and contract transactions) require gas and that gas is paid in Ether. The number displayed is the amount required to cover the cost of the transaction in Wei. Take that number, divide by `1000000000000000000`, and subtract the amount of Ether you were trying to send (if you were attempting to send Ether). This will give you the amount of Ether you need to send to that account to make the transaction. ',
 
-HELP_14_Title               : '14) Ορισμένοι ιστότοποι τυχαιοποιούν την παραγωγή του ιδιωτικού κλειδιού μέσω κινήσεων του ποντικιού. Το MyEtherWallet.com δεν το κάνει αυτό. Είναι ασφαλής η παραγωγή τυχαίων αριθμών για το MyEtherWallet; ',
-HELP_14_Desc_1              : 'Ενώ αυτό το πράγμα με τις κινήσεις του ποντικιού είναι έξυπνο και καταλαβαίνουμε γιατί αρέσει στους περισσότερους ανθρώπους, η πραγματικότητα όμως είναι ότι το window.crypto εξασφαλίζει περισσότερη εντροπία από τις κινήσεις του ποντικιού σας. Δεν είναι ότι οι κινήσεις του ποντικιού δεν είναι ασφαλείς, είναι ότι εμείς (και οι τόνοι πειραμάτων κρυπτογράφησης) πιστεύουμε στο window.crypto. Επιπλέον, το MyEtherWallet.com μπορεί να χρησιμοποιηθεί σε συσκευές αφής. Εδώ είναι μια [συζήτηση μεταξύ ενός θυμωμένου redditor και του Vitalik Buterin σχετικά με τις κινήσεις του ποντικιού έναντι του window.crypto](https://www.reddit.com/r/ethereum/comments/2bilqg/note_there_is_a_paranoid_highsecurity_way_to/cj5sgrm) και εδώ είναι οι [προδιαγραφές w3 του window.crypto](https://dvcs.w3.org/hg/webcrypto-api/raw-file/tip/spec/Overview.html#dfn-GlobalCrypto). ',
+HELP_14_Title               : '14) Ορισμένοι ιστότοποι τυχαιοποιούν την παραγωγή του ιδιωτικού κλειδιού μέσω κινήσεων του ποντικιού. Το wallet.2ether.com δεν το κάνει αυτό. Είναι ασφαλής η παραγωγή τυχαίων αριθμών για το MyEtherWallet; ',
+HELP_14_Desc_1              : 'Ενώ αυτό το πράγμα με τις κινήσεις του ποντικιού είναι έξυπνο και καταλαβαίνουμε γιατί αρέσει στους περισσότερους ανθρώπους, η πραγματικότητα όμως είναι ότι το window.crypto εξασφαλίζει περισσότερη εντροπία από τις κινήσεις του ποντικιού σας. Δεν είναι ότι οι κινήσεις του ποντικιού δεν είναι ασφαλείς, είναι ότι εμείς (και οι τόνοι πειραμάτων κρυπτογράφησης) πιστεύουμε στο window.crypto. Επιπλέον, το wallet.2ether.com μπορεί να χρησιμοποιηθεί σε συσκευές αφής. Εδώ είναι μια [συζήτηση μεταξύ ενός θυμωμένου redditor και του Vitalik Buterin σχετικά με τις κινήσεις του ποντικιού έναντι του window.crypto](https://www.reddit.com/r/ethereum/comments/2bilqg/note_there_is_a_paranoid_highsecurity_way_to/cj5sgrm) και εδώ είναι οι [προδιαγραφές w3 του window.crypto](https://dvcs.w3.org/hg/webcrypto-api/raw-file/tip/spec/Overview.html#dfn-GlobalCrypto). ',
 
 HELP_15_Title               : '15) Γιατί δεν έχει εμφανιστεί ο λογαριασμός που μόλις δημιούργησα στον εξερευνητή blockchain; (δηλαδή: etherchain, etherscan) ',
 HELP_15_Desc_1              : 'Ένας λογαριασμός εμφανίζεται σε έναν εξερευνητή blockchain μόνο όταν ο λογαριασμός έχει δραστηριότητα&mdash;για παράδειγμα, αφού μεταφέρετε κάποιο ποσό Αιθέρα σε αυτόν. ',
 
 HELP_16_Title               : '16) Πώς ελέγχω το υπόλοιπο του λογαριασμού μου; ',
-HELP_16_Desc_1              : 'Μπορείτε να χρησιμοποιήσετε έναν εξερευνητή blockchain όπως το [etherscan.io](https://etherscan.io/). Επικολλήστε τη διεύθυνσή σας στη γραμμή αναζήτησης και θα ανασύρει τη διεύθυνση και το ιστορικό συναλλαγών σας. Για παράδειγμα, δείτε πώς φαίνεται ο [λογαριασμός μας για δωρέες](https://etherscan.io/address/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) στο etherscan.io ',
+HELP_16_Desc_1              : 'Μπορείτε να χρησιμοποιήσετε έναν εξερευνητή blockchain όπως το [explorer.2ether.com](https://explorer.2ether.com). Επικολλήστε τη διεύθυνσή σας στη γραμμή αναζήτησης και θα ανασύρει τη διεύθυνση και το ιστορικό συναλλαγών σας. Για παράδειγμα, δείτε πώς φαίνεται ο [λογαριασμός μας για δωρέες](https://etherscan.io/address/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) στο etherscan.io ',
 
 HELP_17_Title               : '17) Γιατί δεν εμφανίζεται το υπόλοιπό μου όταν ξεκλειδώνω το πορτοφόλι μου; ',
 HELP_17_Desc_1              : 'Αυτό πιθανότατα οφείλεται στο γεγονός ότι βρίσκεστε πίσω από κάποιο τείχος προστασίας. Το API που χρησιμοποιούμε για να πάρουμε το υπόλοιπο και να μετατρέψουμε το εν λόγω υπόλοιπο συχνά εμποδίζεται από τείχη προστασίας για διάφορους λόγους. Θα εξακολουθείτε να είστε σε θέση να αποστείλετε συναλλαγές, απλά πρέπει να χρησιμοποιήσετε μια διαφορετική μέθοδο για να δείτε το εν λόγω υπόλοιπο, όπως το etherscan.io ',
@@ -862,13 +862,13 @@ HELP_SecCX_Desc_2           : 'The information you store in this Chrome Extensio
 HELP_SecCX_Desc_3           : 'What information is saved? ',
 HELP_SecCX_Desc_4           : 'The address, nickname, private key is stored in chrome.storage. The private key is encrypted using the password you set when you added the wallet. The nickname and wallet address is not encrypted. ',
 HELP_SecCX_Desc_5           : 'Why aren\'t the nickname and wallet address encrypted? ',
-HELP_SecCX_Desc_6           : 'If we were to encrypt these items, you would need to enter a password each time you wanted to view your account balance or view the nicknames. If this concerns you, we recommend you use MyEtherWallet.com instead of this Chrome Extension. ',
+HELP_SecCX_Desc_6           : 'If we were to encrypt these items, you would need to enter a password each time you wanted to view your account balance or view the nicknames. If this concerns you, we recommend you use wallet.2ether.com instead of this Chrome Extension. ',
 
 HELP_Sec_Title              : 'Ασφάλεια ',
 HELP_Sec_Desc_1             : 'If one of your first questions is "Why should I trust these people?", that is a good thing. Hopefully the following will help ease your fears. ',
 HELP_Sec_Desc_2             : 'We\'ve been up and running since August 2015. If you search for ["myetherwallet" on reddit](https://www.reddit.com/search?q=myetherwallet), you can see numerous people who use us with great success. ',
 HELP_Sec_Desc_3             : 'We aren\'t going to take your money or steal your private key(s). There is no malicious code on this site. In fact the "GENERATE WALLET" pages are completely client-side. That means that all the code is executed on ** your computer** and it is never saved and transmitted anywhere. ',
-HELP_Sec_Desc_4             : 'Check the URL -- This site is being served through GitHub and you can see the source code here: [https://github.com/kvhnuke/etherwallet/tree/gh-pages](https://github.com/kvhnuke/etherwallet/tree/gh-pages) to [https://vintage.myetherwallet.com](https://vintage.myetherwallet.com). ',
+HELP_Sec_Desc_4             : 'Check the URL -- This site is being served through GitHub and you can see the source code here: [https://github.com/kvhnuke/etherwallet/tree/gh-pages](https://github.com/kvhnuke/etherwallet/tree/gh-pages) to [https://wallet.2ether.com](https://wallet.2ether.com). ',
 HELP_Sec_Desc_5             : 'For generating wallets, you can download the [source code and run it locally](https://github.com/kvhnuke/etherwallet/releases/latest). See #5 above. ',
 HELP_Sec_Desc_6             : 'Generate a test wallet and check and see what network activity is happening. The easiest way for you to do this is to right click on the page and click "inspect element". Go to the "Network" tab. Generate a test wallet. You will see there is no network activity. You may see something happening that looks like data:image/gif and data:image/png. Those are the QR codes being generated...on your computer...by your computer. No bytes were transferred. ',
 HELP_Sec_Desc_8             : 'If you do not feel comfortable using this tool, then by all means, do not use it. We created this tool as a helpful way for people to generate wallets and make transactions without needing to dive into command line or run a full node. Again, feel free to reach out if you have concerns and we will respond as quickly as possible. Thanks! ',

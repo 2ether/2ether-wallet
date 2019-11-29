@@ -115,7 +115,7 @@
     <hr />
 
     <h6>
-      <a href="https://kb.myetherwallet.com/ens/"
+      <a href="https://kb.wallet.2ether.com/ens/"
          target="_blank"
          rel="noopener noreferrer"
          translate="ENS_Helper_22">
@@ -124,7 +124,7 @@
 
       &nbsp;&middot;&nbsp;
 
-      <a href="https://kb.myetherwallet.com/ens/ens-debugging-a-bad-instruction-reveal.html"
+      <a href="https://kb.wallet.2ether.com/ens/ens-debugging-a-bad-instruction-reveal.html"
          target="_blank"
          rel="noopener noreferrer"
          translate="ENS_Helper_23">

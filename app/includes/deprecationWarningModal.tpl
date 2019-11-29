@@ -17,7 +17,7 @@
           </p>
           <br /> 
           <br /> 
-          <a href="https://www.myetherwallet.com/" rel="noopener noreferrer"> Click here to be taken to our current interface, MEW V5.</a>
+          <a href="https://www.wallet.2ether.com/" rel="noopener noreferrer"> Click here to be taken to our current interface, MEW V5.</a>
           <br /> 
           <br /> 
         </div>

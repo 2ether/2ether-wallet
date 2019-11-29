@@ -107,7 +107,7 @@ EOS_09                          :  'Claim EOS Tokens',
 EOS_10                          :  'Select `claimAll`.',
 
 /* Onboarding */
-ONBOARD_welcome_title           :  'Welcome to MyEtherWallet.com',
+ONBOARD_welcome_title           :  'Welcome to wallet.2ether.com',
 ONBOARD_welcome_content__1      :  'Please take some time to understand this for your own safety. 🙏',
 ONBOARD_welcome_content__2      :  'Your funds will be stolen if you do not heed these warnings.',
 ONBOARD_welcome_content__3      :  'We know this click-through stuff is annoying. We are sorry.',
@@ -139,7 +139,7 @@ ONBOARD_blockchain_content__1   :  'The blockchain is like a huge, global, decen
 ONBOARD_blockchain_content__2   :  'It keeps track of who sent how many coins to whom, and what the balance of every account is.',
 ONBOARD_blockchain_content__3   :  'It is stored and maintained by thousands of people (miners) across the globe who have special computers.',
 ONBOARD_blockchain_content__4   :  'The blocks in the blockchain are made up of all the individual transactions sent from MyEtherWallet, MetaMask, Exodus, Mist, Geth, Parity, and everywhere else.',
-ONBOARD_blockchain_content__5   :  'When you see your balance on MyEtherWallet.com or view your transactions on [etherscan.io](https://etherscan.io), you are seeing data on the blockchain, not in our personal systems.',
+ONBOARD_blockchain_content__5   :  'When you see your balance on wallet.2ether.com or view your transactions on [etherscan.io](https://etherscan.io), you are seeing data on the blockchain, not in our personal systems.',
 ONBOARD_blockchain_content__6   :  'Again: **we are not a bank**.',
 ONBOARD_interface_title__alt    :  'MEW is an Interface',
 ONBOARD_why_title__alt          :  'But...why does this matter?',
@@ -162,13 +162,13 @@ ONBOARD_whymew_content__2       :  'You don\'t have to rely on your bank, govern
 ONBOARD_whymew_content__3       :  'You don\'t have to rely on the security of an exchange or bank to keep your funds safe.',
 ONBOARD_whymew_content__4       :  'If you don\'t find these things valuable, ask yourself why you think the blockchain and cryptocurrencies are valuable. 😉',
 ONBOARD_whymew_content__5       :  'If you don\'t like the sound of this, consider using [Coinbase](https://www.coinbase.com/) or [Blockchain.info](https://blockchain.info/wallet/#/signup). They have more familiar accounts with usernames & passwords.',
-ONBOARD_whymew_content__6       :  'If you are scared but want to use MEW, [get a hardware wallet](https://kb.myetherwallet.com/hardware-wallets/hardware-wallet-recommendations.html)! These keep your keys secure.',
+ONBOARD_whymew_content__6       :  'If you are scared but want to use MEW, [get a hardware wallet](https://kb.wallet.2ether.com/hardware-wallets/hardware-wallet-recommendations.html)! These keep your keys secure.',
 ONBOARD_why_title__alt          :  'But...why?',
 ONBOARD_secure_title            :  'How To Protect Yourself & Your Funds',
 ONBOARD_secure_1_title          :  'How To Protect Yourself from Phishers',
 ONBOARD_secure_1_content__1     :  'Phishers send you a message with a link to a website that looks just like MyEtherWallet, EtherDelta, Paypal, or your bank, but is not the real website. They steal your information and then steal your money.',
 ONBOARD_secure_1_content__2     :  'Install [EAL](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn) or [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn) or [Cryptonite by Metacert](https://chrome.google.com/webstore/detail/cryptonite-by-metacert/keghdcpemohlojlglbiegihkljkgnige) or the [MyEtherWallet Chrome Extension](https://chrome.google.com/webstore/detail/myetherwallet-cx/nlbmnnijcnlegkjjpcfjclmcfggfefdm) to block malicious websites.',
-ONBOARD_secure_1_content__3     :  'Always check the URL: `https://vintage.myetherwallet.com`.',
+ONBOARD_secure_1_content__3     :  'Always check the URL: `https://wallet.2ether.com`.',
 ONBOARD_secure_1_content__4     :  'Always make sure the URL bar has `MYETHERWALLET INC` in green.',
 ONBOARD_secure_1_content__5     :  'Do not trust messages or links sent to you randomly via email, Slack, Reddit, Twitter, etc.',
 ONBOARD_secure_1_content__6     :  'Always navigate directly to a site before you enter information. Do not enter information after clicking a link from a message or email.',
@@ -187,7 +187,7 @@ ONBOARD_secure_3_content__2     :  'Make a backup of your private key and passwo
 ONBOARD_secure_3_content__3     :  'Store this paper or USB drive in a different physical location. A backup is not useful if it is destroyed by a fire or flood along with your laptop.',
 ONBOARD_secure_3_content__4     :  'Do not store your private key in Dropbox, Google Drive, or other cloud storage. If that account is compromised, your funds will be stolen.',
 ONBOARD_secure_3_content__5     :  'If you have more than 1-week\'s worth of pay worth of cryptocurrency, get a hardware wallet. No excuses. It\'s worth it. I promise.',
-ONBOARD_secure_3_content__6     :  '[Even more Security Tips!](https://kb.myetherwallet.com/getting-started/protecting-yourself-and-your-funds.html)',
+ONBOARD_secure_3_content__6     :  '[Even more Security Tips!](https://kb.wallet.2ether.com/getting-started/protecting-yourself-and-your-funds.html)',
 ONBOARD_secure_2_title__alt_2   :  'Screw Scams',
 ONBOARD_final_title__alt        :  'One more click & you\'re done! 🤘',
 ONBOARD_final_title             :  'Alright, I\'m done lecturing you!',
@@ -217,7 +217,7 @@ x_TxHash                    : 'Hash transazione',
 NAV_CheckTxStatus           : 'Controlla lo stato della transazione',
 NAV_TxStatus                : 'Stato transazione',
 tx_Details                  : 'Dettagli della transazione',
-tx_Summary                  : 'Nei periodi di traffico intenso (come durante le ICO) le transazioni possono rimanere in attesa per ore, o anche giorni. Questo strumento cerca di darti la possibilità di trovare e "annullare" / sostituire queste transazioni. ** Non è normalmente possibile farlo. Non dovresti farci affidamento, e funziona solo quando i *pool* delle transazioni sono pieni. [Altre informazioni su questo strumento qui.](https://kb.myetherwallet.com/transactions/check-status-of-ethereum-transaction.html)**',
+tx_Summary                  : 'Nei periodi di traffico intenso (come durante le ICO) le transazioni possono rimanere in attesa per ore, o anche giorni. Questo strumento cerca di darti la possibilità di trovare e "annullare" / sostituire queste transazioni. ** Non è normalmente possibile farlo. Non dovresti farci affidamento, e funziona solo quando i *pool* delle transazioni sono pieni. [Altre informazioni su questo strumento qui.](https://kb.wallet.2ether.com/transactions/check-status-of-ethereum-transaction.html)**',
 tx_notFound                 : 'Transazione non trovata',
 tx_notFound_1               : 'Impossibile trovare questa transazione nel *pool* delle transazioni del nodo a cui sei connesso.',
 tx_notFound_2               : 'Se l\'hai appena inviata, attendi 15 secondi e premi di nuovo il pulsante "Controlla lo stato della transazione". ',
@@ -230,7 +230,7 @@ tx_foundInPending_3         : 'Forse è possibile "annullare" o sostituire quest
 tx_FoundOnChain             : 'Transazione trovata',
 tx_FoundOnChain_1           : 'La transazione è stata correttamente inclusa in un blocco e ora si trova sulla *blockchain*.',
 tx_FoundOnChain_2           : '**Se vedi un `( ! )` rosso, un messaggio di errore `BAD INSTRUCTION` o `OUT OF GAS`**, significa che la transazione non è stata correttamente *inviata*. Non puoi annullare o sostituire questa transazione. Puoi però inviarne una nuova. Se hai ricevuto un messaggio di errore "Out of Gas", dovresti raddoppiare il limite gas che avevi indicato in origine.',
-tx_FoundOnChain_3           : '**Se non vedi errori, la transazione è stata inviata correttamente.** I tuoi ETH o i tuoi token sono dove li hai inviati. Se non vedi questi ETH o token nell\'altro portafoglio / nel conto della piattaforma di scambio, e se sono passate più di 24 ore dall\'invio, [contatta quel servizio esterno](https://kb.myetherwallet.com/diving-deeper/ethereum-list-of-support-and-communities.html). Invia loro il *link* alla transazione e chiedi, cortesemente, di controllare la tua situazione.',
+tx_FoundOnChain_3           : '**Se non vedi errori, la transazione è stata inviata correttamente.** I tuoi ETH o i tuoi token sono dove li hai inviati. Se non vedi questi ETH o token nell\'altro portafoglio / nel conto della piattaforma di scambio, e se sono passate più di 24 ore dall\'invio, [contatta quel servizio esterno](https://kb.wallet.2ether.com/diving-deeper/ethereum-list-of-support-and-communities.html). Invia loro il *link* alla transazione e chiedi, cortesemente, di controllare la tua situazione.',
 
 /* Gen Wallet Updates */
 GEN_Help_1                  : 'Usa il tuo',
@@ -259,7 +259,7 @@ GEN_Unlock                  : 'Sblocca il portafoglio per vedere l\'indirizzo',
 GAS_PRICE_Desc              : 'Il prezzo gas è la somma che paghi per unità di gas. `Commissione transazione = prezzo gas * limite gas` e si paga ai *miner* perché includano la tua transazione in un blocco. Più alto il prezzo gas = più veloce la transazione, ma più costosa. Di default è `41 GWEI`.',
 GAS_LIMIT_Desc              : 'Il limite gas è la quantità di gas da inviare con la transazione. `Commissione transazione` = prezzo gas * limite gas e si paga ai *miner* perché includano la tua transazione in un blocco. Aumentare questo numero non farà in modo che la tua transazione sia inclusa prima. Invio di ETH = `21000`. Invio di token = ~`200000`.',
 NONCE_Desc                  : 'Il *nonce* è il numero di transazioni inviate da un certo indirizzo. Fa in modo che le transazioni siano inviate nel giusto ordine e non più di una volta.',
-TXFEE_Desc                  : 'La commissione transazione si paga ai *miner* perché includano la transazione in un blocco. Si calcola come `limite gas` * `prezzo gas`. [Puoi calcolare la conversione GWEI -> ETH qui](https://vintage.myetherwallet.com/helpers.html)',
+TXFEE_Desc                  : 'La commissione transazione si paga ai *miner* perché includano la transazione in un blocco. Si calcola come `limite gas` * `prezzo gas`. [Puoi calcolare la conversione GWEI -> ETH qui](https://wallet.2ether.com/helpers.html)',
 
 
 
@@ -317,7 +317,7 @@ MEW_Tagline                 : 'Portafoglio ether JavaScript lato client Open Sou
 CX_Tagline                  : 'Portafoglio ether JavaScript lato client Open Source (Estensione Chrome) ',
 
 /* Footer */
-FOOTER_1                    : 'Interfaccia gratuita, open source, lato client per generare portafogli Ethereum e altro. Interagisci con la *blockchain* Ethereum facilmente e in modo sicuro. Controlla bene l\'URL ( myetherwallet.com ) prima di sbloccare un portafoglio.',
+FOOTER_1                    : 'Interfaccia gratuita, open source, lato client per generare portafogli Ethereum e altro. Interagisci con la *blockchain* Ethereum facilmente e in modo sicuro. Controlla bene l\'URL ( wallet.2ether.com ) prima di sbloccare un portafoglio.',
 FOOTER_1b                   : 'Creato da ',
 FOOTER_2                    : 'Donazioni molto apprezzate: ',
 FOOTER_3                    : 'Generazione portafogli lato client da parte di ',
@@ -463,7 +463,7 @@ MYWAL_Content_2             : 'Assicurati di aver **salvato la chiave privata e/
 MYWAL_Content_3             : 'Se vorrai utilizzare questo portafoglio con MyEtherWallet CX in futuro, dovrai ri-aggiungerlo manualmente tramite la chiave privata/JSON e password. ',
 
 /* View Wallet Details */
-VIEWWALLET_Subtitle         : 'Qui è possibile scaricare diverse versioni delle chiavi private e ristampare il portafoglio cartaceo. Potresti volerlo fare per  [importare il tuo conto in Geth/Mist](http://ethereum.stackexchange.com/questions/465/how-to-import-a-plain-private-key-into-geth/). Se vuoi controllare il tuo saldo, ti consigliamo di utilizzare uno strumento per esplorare la *blockchain* come [etherscan.io](https://etherscan.io/). ',
+VIEWWALLET_Subtitle         : 'Qui è possibile scaricare diverse versioni delle chiavi private e ristampare il portafoglio cartaceo. Potresti volerlo fare per  [importare il tuo conto in Geth/Mist](http://ethereum.stackexchange.com/questions/465/how-to-import-a-plain-private-key-into-geth/). Se vuoi controllare il tuo saldo, ti consigliamo di utilizzare uno strumento per esplorare la *blockchain* come [explorer.2ether.com](https://explorer.2ether.com). ',
 VIEWWALLET_Subtitle_Short   : 'Qui è possibile scaricare diverse versioni delle chiavi private e ristampare il portafoglio cartaceo. ',
 VIEWWALLET_SuccessMsg       : 'Perfetto! Questi sono i dettagli del tuo portafoglio. ',
 VIEWWALLET_ShowPrivKey      : '(mostra)',
@@ -521,7 +521,7 @@ DEP_interface               : 'Interfaccia generata ',
 /* Node Switcher */
 NODE_Title                  : 'Configura nodo personalizzato',
 NODE_Subtitle               : 'Per collegarti a un nodo locale...',
-NODE_Warning                : 'Il tuo nodo deve utilizzare HTTPS per potertici collegare da MyEtherWallet.com. Puoi [scaricare il repository di MyEtherWallet ed eseguirlo in locale](https://github.com/kvhnuke/etherwallet/releases/latest) per collegarti ad altri tipi di nodo. Oppure, ottieni un certificato SSL gratuito tramite [LetsEncrypt](https://letsencrypt.org/)',
+NODE_Warning                : 'Il tuo nodo deve utilizzare HTTPS per potertici collegare da wallet.2ether.com. Puoi [scaricare il repository di MyEtherWallet ed eseguirlo in locale](https://github.com/kvhnuke/etherwallet/releases/latest) per collegarti ad altri tipi di nodo. Oppure, ottieni un certificato SSL gratuito tramite [LetsEncrypt](https://letsencrypt.org/)',
 NODE_Name                   : 'Nome del nodo',
 NODE_Port                   : 'Porta del nodo',
 NODE_CTA                    : 'Salva & utilizza il nodo',
@@ -584,7 +584,7 @@ ERROR_31                    : 'Inserisci una frase segreta valida ',
 ERROR_32                    : 'Impossibile collegarsi al nodo. Aggiorna la pagina, prova con un altro nodo (angolo in alto a destra), controlla le impostazioni del firewall. Se si tratta di un nodo personalizzato, controlla la configurazione.', // 32
 ERROR_33                    : 'L\'indirizzo del portafoglio non corrisponde a quello del proprietario. ',
 ERROR_34                    : 'Il nome che stai provando a rivelare non combacia con quello che hai inserito. ',
-ERROR_35                    : 'L\'indirizzo inserito non ha un checksum. <a href="https://kb.myetherwallet.com/addresses/what-does-checksummed-mean.html" target="_blank" rel="noopener noreferrer"> Ulteriori informazioni</a>', // 35
+ERROR_35                    : 'L\'indirizzo inserito non ha un checksum. <a href="https://kb.wallet.2ether.com/addresses/what-does-checksummed-mean.html" target="_blank" rel="noopener noreferrer"> Ulteriori informazioni</a>', // 35
 ERROR_36                    : 'Inserisci un hash transazione valido', // 36
 ERROR_37                    : 'Inserisci una stringa esadecimale valida (0-9, a-f)', // 37
 
@@ -621,7 +621,7 @@ PARITY_InvalidGasLimit      : "Il gas fornito supera il limite.",
 /* Tranlsation Info */
 translate_version           : '0.3 ',
 Translator_Desc             : 'Grazie ai nostri traduttori ',
-TranslatorName_1            : '[ugilio](https://vintage.myetherwallet.com/?gaslimit=21000&to=0x07932bc1c68c8ff188f4225e892178ab6d8c4eaa&value=1.0#send-transaction) ',
+TranslatorName_1            : '[ugilio](https://wallet.2ether.com/?gaslimit=21000&to=0x07932bc1c68c8ff188f4225e892178ab6d8c4eaa&value=1.0#send-transaction) ',
 TranslatorAddr_1            : '0x07932bc1c68c8ff188f4225e892178ab6d8c4eaa ',
 /* Translator 1             : Insert Comments Here */
 TranslatorName_2            : '',
@@ -639,10 +639,10 @@ TranslatorAddr_5            : '',
 
 /* Help - Nothing after this point has to be translated. If you feel like being extra helpful, go for it. */
 HELP_Warning                : 'Se hai creato un portafoglio -oppure- hai scaricato il repository prima del **31 Dicembre 2015**, controlla i tuoi portafogli e scarica una nuova versione del repository. Fai clic qui per i dettagli. ',
-HELP_Desc                   : 'Vedi che manca qualcosa? Hai un\'altra domanda? [Mettiti in contatto con noi](mailto:support@myetherwallet.com), e non solo risponderemo alla tua domanda, ma aggiorneremo anche questa pagina in modo che sia più utile ad altri in futuro! ',
+HELP_Desc                   : 'Vedi che manca qualcosa? Hai un\'altra domanda? [Mettiti in contatto con noi](mailto:support@wallet.2ether.com), e non solo risponderemo alla tua domanda, ma aggiorneremo anche questa pagina in modo che sia più utile ad altri in futuro! ',
 HELP_Remind_Title           : 'Qualche promemoria ',
-HELP_Remind_Desc_1          : '**Ethereum, MyEtherWallet.com & MyEtherWallet CX, e alcune delle librerie Javascript che utilizziamo sono in continuo sviluppo.** Anche se abbiamo testato approfonditamente e persone di tutto il mondo hanno correttamente creato decine di migliaia di portafogli, c\'è sempre la remota possibilità che accada qualcosa di imprevisto che provochi la perdita dei tuoi ETH. Ti preghiamo di non investire più di quello che sei disposto a perdere, e di fare attenzione. Se dovesse capitare qualcosa, ci dispiace, ma **non siamo responsabili per gli ether perduti**. ',
-HELP_Remind_Desc_2          : 'MyEtherWallet.com & MyEtherWallet CX non sono "portafogli web". Non stai creando un account né ci stai dando i tuoi ether da custodire. Tutti i dati non lasciano mai il tuo computer/il tuo browser. Quello che facciamo è renderti facile creare, salvare, e accedere alle tue informazioni e interagire con la *blockchain*. ',
+HELP_Remind_Desc_1          : '**Ethereum, wallet.2ether.com & MyEtherWallet CX, e alcune delle librerie Javascript che utilizziamo sono in continuo sviluppo.** Anche se abbiamo testato approfonditamente e persone di tutto il mondo hanno correttamente creato decine di migliaia di portafogli, c\'è sempre la remota possibilità che accada qualcosa di imprevisto che provochi la perdita dei tuoi ETH. Ti preghiamo di non investire più di quello che sei disposto a perdere, e di fare attenzione. Se dovesse capitare qualcosa, ci dispiace, ma **non siamo responsabili per gli ether perduti**. ',
+HELP_Remind_Desc_2          : 'wallet.2ether.com & MyEtherWallet CX non sono "portafogli web". Non stai creando un account né ci stai dando i tuoi ether da custodire. Tutti i dati non lasciano mai il tuo computer/il tuo browser. Quello che facciamo è renderti facile creare, salvare, e accedere alle tue informazioni e interagire con la *blockchain*. ',
 HELP_Remind_Desc_3          : 'Se non salvi la tua chiave privata e la password, non c\'è modo di recuperare l\'accesso al tuo portafoglio o ai fondi che contiene.  Salvali in molti luoghi fisici diversi e non solo sul tuo computer! ',
 
 HELP_0_Title                : '0) Sono nuovo. Cosa faccio? ',
@@ -680,7 +680,7 @@ HELP_2b_Desc_8              : 'Vai alla pagina "Informazioni portafoglio" e digi
 HELP_3_Title                : '3) Come verifico di aver accesso al mio nuovo portafoglio? ',
 HELP_3_Desc_1               : '**Prima di inviare degli ether al tuo nuovo portafoglio**, dovresti assicurarti di poterci accedere. ',
 HELP_3_Desc_2               : 'Vai alla pagina "Informazioni portafoglio". ',
-HELP_3_Desc_3               : 'Vai alla pagina "Informazioni portafoglio" su MyEtherWallet.com. ',
+HELP_3_Desc_3               : 'Vai alla pagina "Informazioni portafoglio" su wallet.2ether.com. ',
 HELP_3_Desc_4               : 'Seleziona il file del tuo portafoglio -oppure- la tua chiave privata e sblocca il portafoglio. ',
 HELP_3_Desc_5               : 'Se il portafoglio è crittografato, comparirà automaticamente una casella di testo. Inserisci la password. ',
 HELP_3_Desc_6               : 'Fai clic sul pulsante "Sblocca". ',
@@ -715,11 +715,11 @@ HELP_4CX_Desc_10            : 'Inserisci la password del portafoglio. ',
 HELP_4CX_Desc_11            : 'Fai clic su "Invia transazione." ',
 HELP_4CX_Desc_12            : 'Tramite la pagina "Invia ether e token" ',
 
-HELP_5_Title                : '5) Come faccio ad eseguire MyEtherWallet.com offline/in locale? ',
-HELP_5_Desc_1               : 'Puoi eseguire MyEtherWallet.com sul tuo computer invece che dai server di GitHub. Puoi generare un portafoglio completamente offline e inviare transazioni dalla pagina "Invia Offline". ',
-HELP_5_Desc_7               : 'MyEtherWallet.com è ora in esecuzione completamente sul tuo computer. ',
+HELP_5_Title                : '5) Come faccio ad eseguire wallet.2ether.com offline/in locale? ',
+HELP_5_Desc_1               : 'Puoi eseguire wallet.2ether.com sul tuo computer invece che dai server di GitHub. Puoi generare un portafoglio completamente offline e inviare transazioni dalla pagina "Invia Offline". ',
+HELP_5_Desc_7               : 'wallet.2ether.com è ora in esecuzione completamente sul tuo computer. ',
 HELP_5_Desc_8               : 'In caso tu non abbia molta confidenza, ti serve l\'intera cartella per poter eseguire il sito web, non solo `index.html`. Non toccare né spostare nulla del contenuto della cartella. Se stai conservando un backup del repository MyEtherWallet per il futuro, ti consigliamo di conservare soltanto il file ZIP in modo da assicurarti che i contenuti della cartella rimangano intatti. ',
-HELP_5_Desc_9               : 'Dal momento che stiamo costantemente aggiornando MyEtherWallet.com, ti consigliamo di aggiornare periodicamente la tua versione locale del repository. ',
+HELP_5_Desc_9               : 'Dal momento che stiamo costantemente aggiornando wallet.2ether.com, ti consigliamo di aggiornare periodicamente la tua versione locale del repository. ',
 
 HELP_5CX_Title              : '5) Come posso installare questa estensione dal repository invece che dal Chrome Store? ',
 HELP_5CX_Desc_2             : 'Fai clic su `chrome-extension-vX.X.X.X.zip` e decomprimi il file. ',
@@ -750,7 +750,7 @@ HELP_7_Desc_15              : 'La transazione verrà inviata. Verrà mostrato il
 
 HELP_8_Title                : '8) Che succede se il vostro sito va giù? ',
 HELP_8_Desc_1               : 'MyEtherWallet non è un portafoglio web. Non hai un login e niente viene mai salvato nei nostri server. È semplicemente un\'interfaccia che ti consente di interagire con la *blockchain*. ',
-HELP_8_Desc_2               : 'Se MyEtherWallet.com va giù, dovrai trovare un altro modo (come geth o Ethereum Wallet / Mist) per fare quello che facciamo noi. Ma non dovrai "tirare fuori" i tuoi ether da MyEtherWallet perché non si trovano in MyEtherWallet. Sono in qualunque portafoglio tu abbia generato tramite il nostro sito. ',
+HELP_8_Desc_2               : 'Se wallet.2ether.com va giù, dovrai trovare un altro modo (come geth o Ethereum Wallet / Mist) per fare quello che facciamo noi. Ma non dovrai "tirare fuori" i tuoi ether da MyEtherWallet perché non si trovano in MyEtherWallet. Sono in qualunque portafoglio tu abbia generato tramite il nostro sito. ',
 HELP_8_Desc_3               : 'Ora puoi importare direttamente e molto facilmente in geth / Ethereum Wallet / Mist la tua chiave privata non crittografata e i tuoi file in formato Geth/Mist (crittografati). Vedi la domanda n. 12 qui sotto. ',
 HELP_8_Desc_4               : 'Inoltre, la probabilità che tiriamo giù MyEtherWallet è prossima allo zero. Non ci costa praticamente nulla mantenerlo dal momento che non stiamo memorizzando alcuna informazione. Se anche disattivassimo il dominio, è ancora, e sarà sempre, disponibile pubblicamente su [https://github.com/kvhnuke/etherwallet](https://github.com/kvhnuke/etherwallet/tree/gh-pages). Puoi scaricare lo ZIP da lì ed eseguirlo in locale. ',
 
@@ -809,14 +809,14 @@ HELP_12_Desc_28             : 'Alla prossima apertura dell\'applicazione Ethereu
 HELP_13_Title               : '13) Cosa significa "Fondi insufficienti. L\'account dal quale stai provando ad inviare la transazione non ha abbastanza fondi. Richiesti XXXXXXXXXXXXXXXXXXX ma presenti: XXXXXXXXXXXXXXXX."? ',
 HELP_13_Desc_1              : 'Significa che non hai abbastanza ether nel tuo conto per coprire il costo del gas. Tutte le transazioni (comprese quelle che riguardano token e contratti) richiedono gas, e il gas si paga in ether. Il numero indicato è l\'importo richiesto per coprire il costo della transazione in wei. Prendi quel numero, dividilo per `1000000000000000000`, e sottrai la quantità di ether che stavi provando ad inviare (se stavi provando ad inviare ether). Il risultato è la somma in ether che devi inviare a quel conto per poter eseguire la transazione. ',
 
-HELP_14_Title               : '14) Certi siti inizializzano il generatore di numeri casuali per la generazione della chiave privata tramite i movimenti del mouse. MyEtherWallet.com non lo fa. La generazione di numeri casuali di MyEtherWallet è sicura? ',
-HELP_14_Desc_1              : 'Sebbene usare i movimenti del mouse sia ingegnoso, e comprendiamo perché piaccia, la realtà è che window.crypto assicura maggiore entropia rispetto ai tuoi movimenti del mouse. Non che i movimenti del mouse siano insicuri, è solo che noi (e un sacco di altri critto-esperimenti) crediamo in window.crypto. Oltretutto, MyEtherWallet.com può essere utilizzato su dispositivi touch. Qui c\'è una [conversazione fra un utente di reddit arrabbiato e Vitalik Buterin su movimenti del mouse contro window.crypto](https://www.reddit.com/r/ethereum/comments/2bilqg/note_there_is_a_paranoid_highsecurity_way_to/cj5sgrm) e qui c\'è [la specifica del w3 di window.crypto](https://dvcs.w3.org/hg/webcrypto-api/raw-file/tip/spec/Overview.html#dfn-GlobalCrypto). ',
+HELP_14_Title               : '14) Certi siti inizializzano il generatore di numeri casuali per la generazione della chiave privata tramite i movimenti del mouse. wallet.2ether.com non lo fa. La generazione di numeri casuali di MyEtherWallet è sicura? ',
+HELP_14_Desc_1              : 'Sebbene usare i movimenti del mouse sia ingegnoso, e comprendiamo perché piaccia, la realtà è che window.crypto assicura maggiore entropia rispetto ai tuoi movimenti del mouse. Non che i movimenti del mouse siano insicuri, è solo che noi (e un sacco di altri critto-esperimenti) crediamo in window.crypto. Oltretutto, wallet.2ether.com può essere utilizzato su dispositivi touch. Qui c\'è una [conversazione fra un utente di reddit arrabbiato e Vitalik Buterin su movimenti del mouse contro window.crypto](https://www.reddit.com/r/ethereum/comments/2bilqg/note_there_is_a_paranoid_highsecurity_way_to/cj5sgrm) e qui c\'è [la specifica del w3 di window.crypto](https://dvcs.w3.org/hg/webcrypto-api/raw-file/tip/spec/Overview.html#dfn-GlobalCrypto). ',
 
 HELP_15_Title               : '15) Perché il conto che ho appena creato non risulta nello strumento per esplorare la *blockchain*? (es: etherchain, etherscan) ',
 HELP_15_Desc_1              : 'I conti vengono mostrati in quegli strumenti solamente dopo che c\'è stata un\'attività sul conto in questione&mdash;ad esempio, dopo che ci hai trasferito degli ether. ',
 
 HELP_16_Title               : '16) Come faccio a controllare il saldo del mio conto? ',
-HELP_16_Desc_1              : 'Puoi usare uno strumento per l\'esplorazione della *blockchain* come [etherscan.io](https://etherscan.io/). Incolla il tuo indirizzo nella barra di ricerca e vedrai il tuo indirizzo e lo storico delle transazioni. Ad esempio, questo è come si presenta il nostro [conto donazioni](https://etherscan.io/address/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) su etherscan.io ',
+HELP_16_Desc_1              : 'Puoi usare uno strumento per l\'esplorazione della *blockchain* come [explorer.2ether.com](https://explorer.2ether.com). Incolla il tuo indirizzo nella barra di ricerca e vedrai il tuo indirizzo e lo storico delle transazioni. Ad esempio, questo è come si presenta il nostro [conto donazioni](https://etherscan.io/address/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) su etherscan.io ',
 
 HELP_17_Title               : '17) Perché non viene mostrato il saldo quando sblocco il mio portafoglio? ',
 HELP_17_Desc_1              : 'Probabilmente perché sei dietro a un firewall. Le API che utilizziamo per ottenere il saldo e convertirlo sono spesso bloccate dai firewall per qualche ragione. Sarai ancora in grado di inviare transazioni, dovrai solo usare un metodo diverso per vedere il tuo saldo, come etherscan.io ',
@@ -845,13 +845,13 @@ HELP_SecCX_Desc_2           : 'Le informazioni che memorizzi in questa estension
 HELP_SecCX_Desc_3           : 'Che informazioni sono salvate? ',
 HELP_SecCX_Desc_4           : 'L\'indirizzo, nome, e la chiave privata sono memorizzati in chrome.storage. La chiave privata è crittografata utilizzando la password che hai impostato quando hai aggiunto il portafoglio. Il nome e l\'indirizzo del portafoglio non sono crittografati. ',
 HELP_SecCX_Desc_5           : 'Perché il nome e l\'indirizzo del portafoglio non sono crittografati? ',
-HELP_SecCX_Desc_6           : 'Se crittografassimo questi elementi dovresti inserire una password ogni volta in cui volessi vedere il saldo del tuo conto o i nomi dei portafogli. Se ciò ti preoccupa, ti consigliamo di usare MyEtherWallet.com invece di questa estensione di Chrome. ',
+HELP_SecCX_Desc_6           : 'Se crittografassimo questi elementi dovresti inserire una password ogni volta in cui volessi vedere il saldo del tuo conto o i nomi dei portafogli. Se ciò ti preoccupa, ti consigliamo di usare wallet.2ether.com invece di questa estensione di Chrome. ',
 
 HELP_Sec_Title              : 'Sicurezza ',
 HELP_Sec_Desc_1             : 'Se una delle prime domande che ti poni è "Perché dovrei fidarmi di questa gente?", è una cosa buona. Quanto segue dovrebbe aiutarti a calmare i tuoi timori. ',
 HELP_Sec_Desc_2             : 'Siamo attivi da agosto 2015. Se cerchi ["myetherwallet" su reddit](https://www.reddit.com/search?q=myetherwallet), puoi vedere che molte persone ci utilizzano con grande successo. ',
 HELP_Sec_Desc_3             : 'Non prenderemo i tuoi soldi né ruberemo le tue chiavi private. Non c\'è codice malevolo su questo sito. Infatti le pagine "Genera portafoglio" sono completamente lato client. Ciò significa che tutto il codice è eseguito sul ** tuo computer** e non viene mai salvato e trasmesso da nessuna parte. ',
-HELP_Sec_Desc_4             : 'Controlla l\'URL -- Questo sito viene servito attraverso GitHub e puoi vederne il codice sorgente qui: [https://github.com/kvhnuke/etherwallet/tree/gh-pages](https://github.com/kvhnuke/etherwallet/tree/gh-pages) su [https://vintage.myetherwallet.com](https://vintage.myetherwallet.com). ',
+HELP_Sec_Desc_4             : 'Controlla l\'URL -- Questo sito viene servito attraverso GitHub e puoi vederne il codice sorgente qui: [https://github.com/kvhnuke/etherwallet/tree/gh-pages](https://github.com/kvhnuke/etherwallet/tree/gh-pages) su [https://wallet.2ether.com](https://wallet.2ether.com). ',
 HELP_Sec_Desc_5             : 'Per la generazione dei portafogli, puoi scaricare il [codice sorgente](https://github.com/kvhnuke/etherwallet/releases/latest) ed eseguirlo in locale. Vedi la domanda 5 qui sopra. ',
 HELP_Sec_Desc_6             : 'Genera un portafoglio di prova e controlla che attività di rete sono in corso. Il modo più facile e fare clic destro sulla pagina e scegliere "Analizza elemento". Vai sulla scheda "Rete". Genera un portafoglio di prova. Vedrai che non c\'è attività di rete. Potresti vedere accadere qualcosa che assomiglia a  data:image/gif e data:image/png. Sono i QR code che vengono generati...sul tuo computer...dal tuo computer. Non sono stati trasferiti byte. ',
 HELP_Sec_Desc_8             : 'Se non ti senti a tuo agio a usare questo strumento, allora certo, non usarlo. Abbiamo creato questo strumento per aiutare la gente a generare portafogli ed eseguire transazioni senza bisogno di usare la riga di comando o far girare un nodo completo. Di nuovo, sentiti libero di contattarci se hai dubbi e ti risponderemo appena possibile. Grazie! ',
