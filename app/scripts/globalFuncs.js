@@ -174,7 +174,7 @@ globalFuncs.checkAndRedirectHTTPS = function() {
   var host = 'wallet.2ether.com';
   var hostw = 'https://wallet.2ether.com';
   var path = window.location.pathname;
-  if (host == window.location.host) window.location = hostw + path;
+  // if (host == window.location.host) window.location = hostw + path;
 };
 globalFuncs.isStrongPass = function(password) {
   return password.length > 8;
